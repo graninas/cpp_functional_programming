@@ -2,35 +2,23 @@
 
 List of materials and links about functional programming in C++.
 
-- [English materials](#english-materials)
-  - [Books](#books)
-  - [Basics](#basics)
-  - [Advanced topics](#advanced)
-  - [Talks](#talks)
-  - [StackOverflow questions](#stackoverflow-questions)
- 
-- [General](#general)
-  - [Libraries](#libraries)
+- [Books](#books)
+- [Articles](#articles)
+- [Talks](#talks)
+- [StackOverflow questions](#stackoverflow-questions) 
+- [Libraries](#libraries)
 
-- [Русский](#russian)
-  - [Книги](#books)
-  - [Основы](#basics)
-  - [Продвинутые темы](#advanced)
-  - [Доклады](#talks)
-
-## English materials
-
-### Books
+## Books
 
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus), **Ivan Čukić**, Manning Publications, 2018
   
-### Basics
+## Articles
 
 - [Lambdas: The Functional Programming Companion of Modern C++](https://medium.com/@DakshHub/lambdas-the-companion-of-modern-c-b7dfd43b5abb)
-- [Functional programming in C++](http://blog.madhukaraphatak.com/functional-programming-in-c++/]
-- 
+- [Functional programming in C++](http://blog.madhukaraphatak.com/functional-programming-in-c++/)
 
-### Talks
+
+## Talks
 
 - [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), **Ivan Čukić**, Meeting C++, 2017
 - [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
@@ -40,18 +28,10 @@ List of materials and links about functional programming in C++.
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
 
-### StackOverflow Questions
+## StackOverflow Questions
 
 - [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
 
-## General
-
-### Libraries
+## Libraries
 
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
-
-## Материалы на русском
-
-### Основы
-
-- List item
