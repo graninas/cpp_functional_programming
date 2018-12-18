@@ -2,6 +2,8 @@
 
 List of materials and links about functional programming in C++.
 
+## Contents
+
 - [Books](#books)
 - [Articles](#articles)
 - [Talks](#talks)
