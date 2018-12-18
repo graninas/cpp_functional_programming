@@ -2,15 +2,20 @@
 
 List of materials and links about functional programming in C++.
 
-- [English](#english)
+- [English materials](#english-materials)
   - [Books](#books)
   - [Basics](#basics)
   - [Advanced topics](#advanced)
   - [Talks](#talks)
   - [StackOverflow questions](#stackoverflow)
-- [Russian](#russian)
 
-## English
+- [Русский](#russian)
+  - [Книги](#books)
+  - [Основы](#basics)
+  - [Продвинутые темы](#advanced)
+  - [Доклады](#talks)
+
+## English materials
 
 ### Books
 
@@ -29,3 +34,11 @@ List of materials and links about functional programming in C++.
 - [Functional Patterns in C++, 3. Async API, Monoid, Monad](https://www.youtube.com/watch?v=ozN6XxsAF84), **Bartosz Milewski**, 2012
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
+
+
+
+# Материалы на русском
+
+## Основы
+
+- List item
