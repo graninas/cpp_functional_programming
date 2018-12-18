@@ -9,6 +9,7 @@ List of materials and links about functional programming in C++.
 - [Talks](#talks)
 - [StackOverflow questions](#stackoverflow-questions) 
 - [Libraries](#libraries)
+- [Showcase projects](#showcase-projects)
 
 ## Books
 
@@ -36,4 +37,8 @@ List of materials and links about functional programming in C++.
 
 ## Libraries
 
+- [Composable monadic STM for C++ on Free monads](https://github.com/graninas/cpp_stm_free)
+- [FTL - The Functional Template Library](https://github.com/beark/ftl)
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
+
+## Showcase Projects
