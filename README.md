@@ -23,3 +23,6 @@ List of materials and links about functional programming in C++.
 ## Talks
 
 - [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), **Ivan Čukić**, Meeting C++, 2017
+- [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
+- [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
+- [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), **David Sankel**, C++ Now, 2014
