@@ -12,6 +12,7 @@ List of materials and links about functional programming in C++.
 ### Books
 
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
+
   **Ivan Čukić**, Manning Publications
   
 ## Basics
