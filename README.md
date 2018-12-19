@@ -44,6 +44,13 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional in C++17 and C++20](http://www.modernescpp.com/index.php/functional-in-c-17-and-c-20), **Rainer Grimm**, 2017
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
 - [Study Notes: Functional Programming with C++](https://yongweiwu.wordpress.com/2014/12/07/study-notes-functional-programming-with-cplusplus/), **Yongwei**, 2014
+- [Efficient Pure Functional Programming in C++ Using Move Semantics](https://blog.knatten.org/2012/11/02/efficient-pure-functional-programming-in-c-using-move-semantics/), **Anders Schau Knatten**, 2012
+- [Functional C++. Abusing the type system like never before. (Blog)](https://functionalcpp.wordpress.com/), ?
+  * [Function Traits](https://functionalcpp.wordpress.com/2013/08/05/function-traits/), 2013
+  * [Function Composition](https://functionalcpp.wordpress.com/2013/08/09/function-composition/), 2013
+  * [Continuation Passing Style](https://functionalcpp.wordpress.com/2013/11/19/continuation-passing-style/), 2013
+  * [Composing Continuations](https://functionalcpp.wordpress.com/2015/01/19/composing-continuations/), 2015
+  * And more...
 
 ### Advanced topics
 
@@ -118,6 +125,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Rainer Grimm**
 - **Paul Fultz**
 - **Michał Dominiak**
+- **Stuart Golodetz**
 - **David Sankel**
 - **Jonathan Boccara**
 - **Barry Revzin**
