@@ -88,7 +88,7 @@ All the materials are in English if the language is not specified explicitly.
 
 - **Ivan Čukić** talks
   * [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), Meeting C++, 2017
-  * [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), **Ivan Čukić**, Curry On!, 2018
+  * [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), Curry On!, 2018
 
 - **Alexander Granin** talks (Rus)
   * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
