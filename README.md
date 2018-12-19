@@ -12,7 +12,7 @@ List of materials and links about functional programming in C++.
 - [StackOverflow questions](#stackoverflow-questions) 
 - [Libraries](#libraries)
 - [Showcase projects](#showcase-projects)
-- [C++ FP Enthusiasts](#c---fp-enthusiasts)
+- [C++ FP Enthusiasts](#c-fp-enthusiasts)
 
 ## Books
 
@@ -60,6 +60,8 @@ List of materials and links about functional programming in C++.
 
 ## C++ FP Enthusiasts
 
+_Please, pm me if you don't want to be in this list._
+
 - **Bartosz Milewski**
 - **Ivan Čukić**
 - **Phil Nash**
@@ -70,3 +72,4 @@ List of materials and links about functional programming in C++.
 - **Michał Dominiak**
 - **David Sankel**
 - **Jonathan Boccara**
+- **Barry Revzin**
