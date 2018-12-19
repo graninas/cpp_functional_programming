@@ -31,6 +31,8 @@ List of materials and links about functional programming in C++.
 - [Monads in C++](http://www.modernescpp.com/index.php/monads-in-c), **Rainer Grimm**, 2017
 - [The Vector Monad in C++, Without the Ugly Stuff](http://www.fluentcpp.com/2017/07/14/the-vector-monad-in-c-without-the-ugly-stuff), **Jonathan Boccara**, 2017
 - [The Vector Monad in C++, Really Without the Ugly Stuff](https://medium.com/@barryrevzin/the-vector-monad-in-c-really-without-the-ugly-stuff-3112137db5d7), **Barry Revzin**, 2017
+- [Multiple error handling with the optional monad in C++](https://www.fluentcpp.com/2017/07/04/multiple-error-handling-with-the-optional-monad-in-c/), **Jonathan Boccara**, 2017
+- [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
 
 
 ## Talks
@@ -60,16 +62,17 @@ List of materials and links about functional programming in C++.
 
 ## C++ FP Experts
 
-_Please, pm me if you don't want to be in this list._
+The list of autors of the materials presented here.
+_Please, pm me if you don't want to be in this list. Or if you want to be there._
 
 - **Bartosz Milewski**
 - **Ivan Čukić**
 - **Phil Nash**
 - **Kevlin Henney**
 - **Rainer Grimm**
-- **John Carmack**
 - **Paul Fultz**
 - **Michał Dominiak**
 - **David Sankel**
 - **Jonathan Boccara**
 - **Barry Revzin**
+- **Toby Allsopp**
