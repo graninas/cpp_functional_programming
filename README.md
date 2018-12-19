@@ -12,7 +12,7 @@ List of materials and links about functional programming in C++.
 - [StackOverflow questions](#stackoverflow-questions) 
 - [Libraries](#libraries)
 - [Showcase projects](#showcase-projects)
-- [C++ FP Enthusiasts](#c-fp-enthusiasts)
+- [C++ FP Experts](#c-fp-experts)
 
 ## Books
 
@@ -58,7 +58,7 @@ List of materials and links about functional programming in C++.
 
 ## Showcase Projects
 
-## C++ FP Enthusiasts
+## C++ FP Experts
 
 _Please, pm me if you don't want to be in this list._
 
