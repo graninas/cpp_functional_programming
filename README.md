@@ -14,8 +14,9 @@ All the materials are in English if the language is not specified explicitly.
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
 - [Talks and Screencasts](#talks-and-screencasts)
-- [StackOverflow questions](#stackoverflow-questions) 
-- [Quora questions](#quora-questions)
+- [QA](#qa)
+  * [StackOverflow questions](#stackoverflow-questions) 
+  * [Quora questions](#quora-questions)
 - [Libraries](#libraries)
 - [Showcase projects](#showcase-projects)
 - [C++ FP Experts](#c-fp-experts)
@@ -91,12 +92,14 @@ All the materials are in English if the language is not specified explicitly.
 - [Learning Modern C++ Functional Programming: Understand Essential Part (Screencast)](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
 - [Functional Programming in C++ Using Lambda Expressions (Screencast)](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
-## StackOverflow Questions
+## QA
+
+#### StackOverflow Questions
 
 - [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
 - [Monad interface in C++](https://stackoverflow.com/questions/39725190/monad-interface-in-c)
 
-## Quora Questions
+#### Quora Questions
 
 - [Is C++ is a functional programming language or not?](https://www.quora.com/Is-C++-is-a-functional-programming-language-or-not)
 - [Can C++ be used for functional programming?](https://www.quora.com/Can-C++-be-used-for-functional-programming)
