@@ -54,7 +54,7 @@ All the materials are in English if the language is not specified explicitly.
 - [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
 - [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
 
-#### Design Concetps and Approaches**
+#### Design Concetps and Approaches
 
 - [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
@@ -71,6 +71,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
 - [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), **Bartosz Milewski**, itCppCon17, 2017
 - [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), **Ivan Čukić**, Curry On!, 2018
+- [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
 
 **Screencasts**
 
