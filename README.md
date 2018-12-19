@@ -72,6 +72,7 @@ List of materials and links about functional programming in C++.
 ## C++ FP Experts
 
 The list of authors of the materials presented here.
+
 _Please, pm me if you don't want to be in this list. Or if you want to be there._
 
 - **Bartosz Milewski**
