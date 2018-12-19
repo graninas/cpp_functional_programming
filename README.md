@@ -23,6 +23,7 @@ All the materials are in English if the language is not specified explicitly.
 ## Books
 
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus), **Ivan Čukić**, Manning Publications, 2018
+- [Learning C++ Functional Programming](https://www.oreilly.com/library/view/learning-c-functional/9781787281974/), **Wisnu Anggoro**
 - [Functional Programming with C++](https://www.amazon.com/Functional-Programming-C-Chris-Weed-ebook/dp/B017AT4OMI), **Chris Weed**
 
 ## Articles
@@ -40,6 +41,8 @@ All the materials are in English if the language is not specified explicitly.
 - [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 - [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
   * [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
+- [Functional in C++17 and C++20](http://www.modernescpp.com/index.php/functional-in-c-17-and-c-20), **Rainer Grimm**, 2017
+- [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
 
 ### Advanced topics
 
@@ -120,6 +123,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Barry Revzin**
 - **Toby Allsopp**
 - **Isabella Muerte**
+- **Wisnu Anggoro**
 - **Chris Weed**
 - **Kiryll Shynharow**
 - **Alexander Granin**
