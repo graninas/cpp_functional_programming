@@ -20,7 +20,8 @@ All the materials are in English if the language is not specified explicitly.
 ## Books
 
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus), **Ivan Čukić**, Manning Publications, 2018
-  
+- [Functional Programming with C++](https://www.amazon.com/Functional-Programming-C-Chris-Weed-ebook/dp/B017AT4OMI), **Chris Weed**
+
 ## Articles
 
 ### Basics
@@ -30,6 +31,8 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
 - [What Does Haskell Have to Do with C++?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/),  **Bartosz Milewski**, 2009
 - [Make your functions functional](https://www.fluentcpp.com/2016/11/22/make-your-functions-functional/), **Jonathan Boccara**, 2016
+- [An Overview of Elements of Functional Programming in C++](https://community.idera.com/developer-tools/b/blog/posts/an-overview-of-elements-of-functional-programming-in-c), **Kiryll Shynharow**, 2017
+- [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 - [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
   * [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
 
@@ -40,7 +43,7 @@ All the materials are in English if the language is not specified explicitly.
 - [The Vector Monad in C++, Really Without the Ugly Stuff](https://medium.com/@barryrevzin/the-vector-monad-in-c-really-without-the-ugly-stuff-3112137db5d7), **Barry Revzin**, 2017
 - [Multiple error handling with the optional monad in C++](https://www.fluentcpp.com/2017/07/04/multiple-error-handling-with-the-optional-monad-in-c/), **Jonathan Boccara**, 2017
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
-- [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html)
+- [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html), **ShellBlade**
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
 - [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
 - [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
@@ -100,3 +103,6 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Barry Revzin**
 - **Toby Allsopp**
 - **Isabella Muerte**
+- **Chris Weed**
+- **Kiryll Shynharow**
+- **Alexander Granin**
