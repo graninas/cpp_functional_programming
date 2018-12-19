@@ -6,8 +6,8 @@ List of materials and links about functional programming in C++.
 
 - [Books](#books)
 - [Articles](#articles)
-- * [Basics](#basics)
-- * [Monads](#monads)
+  * [Basics](#basics)
+  * [Monads](#monads)
 - [Talks](#talks)
 - [StackOverflow questions](#stackoverflow-questions) 
 - [Libraries](#libraries)
@@ -36,6 +36,9 @@ List of materials and links about functional programming in C++.
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
 - [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html)
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
+- [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
+- [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
+
 
 
 ## Talks
@@ -82,3 +85,4 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Jonathan Boccara**
 - **Barry Revzin**
 - **Toby Allsopp**
+- **Isabella Muerte**
