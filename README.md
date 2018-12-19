@@ -94,6 +94,8 @@ All the materials are in English if the language is not specified explicitly.
   * [Compile-Time/Run-Time Functional Programming in C++](https://www.youtube.com/watch?v=WtHWFoKf8o0), **Bartosz Milewski**, **Eric Niebler**, BoostCon, 2012
   * [Ranges for the Standard Library](https://www.youtube.com/watch?v=mFUXNMfaciE), CppCon, 2015
   * [Ranges for the Standard Library](https://www.youtube.com/watch?v=gOKHcQad7xE), C++ Siberia, 2015
+  * [Keynote: Ranges for the Standard Library](https://www.youtube.com/watch?v=zsSErwT1S80), C++Now, 2015
+  * [STL Concepts and Ranges](https://www.youtube.com/watch?v=uXBcwcF3ln4), Northwest C++ Users Group, 2015
   * [Introducing the Ranges TS](https://www.youtube.com/watch?v=LNXkPh3Z418), code::dive, 2017
   
 - **Ivan Čukić** talks
@@ -111,6 +113,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), **David Sankel**, C++ Now, 2014
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
+- [Transducers: from Clojure to C++](https://www.youtube.com/watch?v=vohGJjGxtJQ), **Juan Pedro Bolívar Puente**, CppCon, 2015
 - [Practical Functional Programming in C++](https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/009-Practical-Functional-Programming-in-CPP), **Bryce Adelstein-Lelbach**, CppCon, 2014
 - [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
 
@@ -163,6 +166,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **David Sankel**
 - **Jonathan Boccara**
 - **Barry Revzin**
+- **Juan Pedro Bolívar Puente*
 - **Bryce Adelstein-Lelbach**
 - **Toby Allsopp**
 - **Isabella Muerte**
