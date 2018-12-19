@@ -166,7 +166,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **David Sankel**
 - **Jonathan Boccara**
 - **Barry Revzin**
-- **Juan Pedro Bolívar Puente*
+- **Juan Pedro Bolívar Puente**
 - **Bryce Adelstein-Lelbach**
 - **Toby Allsopp**
 - **Isabella Muerte**
