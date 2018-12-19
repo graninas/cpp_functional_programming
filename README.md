@@ -79,6 +79,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), **Ivan Čukić**, Meeting C++, 2017
 - [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
 - [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
+- [Re-discovering monads in C++](https://youtu.be/tc8w8MbJQNs?t=13003), **Bartosz Milewski**, C++ User Group Novosibirsk, 2014
 - [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), **David Sankel**, C++ Now, 2014
 - [Functional Patterns in C++, 3. Async API, Monoid, Monad](https://www.youtube.com/watch?v=ozN6XxsAF84), **Bartosz Milewski**, 2012
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
@@ -86,6 +87,10 @@ All the materials are in English if the language is not specified explicitly.
 - [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), **Bartosz Milewski**, itCppCon17, 2017
 - [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), **Ivan Čukić**, Curry On!, 2018
 - [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
+- [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), **Alexander Granin**, C++ User Group Novosibirsk, 2014
+- [Functional Microscope: Lenses in C++ (Rus)](https://www.youtube.com/watch?v=7vyNRD1TRYs), **Alexander Granin**, C++ Siberia, 2015
+- [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), **Alexander Granin**, C++ Russia, 2016
+- [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), **Alexander Granin**, C++ Russia, 2018
 
 **Screencasts**
 
