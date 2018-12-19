@@ -83,7 +83,10 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional Patterns in C++, 1. Functors](https://www.youtube.com/watch?v=ph7qt0pkPkc), 2012
   * [Functional Patterns in C++, 2. Currying, Applicative](https://www.youtube.com/watch?v=Hx9jojeBj6w), 2012
   * [Functional Patterns in C++, 3. Async API, Monoid, Monad](https://www.youtube.com/watch?v=ozN6XxsAF84), 2012
+  * [Compile-Time/Run-Time Functional Programming in C++](https://www.youtube.com/watch?v=WtHWFoKf8o0), **Bartosz Milewski**, **Eric Niebler**, BoostCon, 2012
+  * [Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)](https://www.youtube.com/watch?v=GjhsSzRtTGY), BoostCon, 2013
   * [Re-discovering monads in C++](https://youtu.be/tc8w8MbJQNs?t=13003), C++ User Group Novosibirsk, 2014 
+  * [Bartosz Milewski. Categories for the Working C++ Programmer](https://www.youtube.com/watch?v=eCUfzvz7Z20), C++ Russia, 2015
   * [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), itCppCon17, 2017
 
 - **Ivan Čukić** talks
@@ -96,6 +99,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
+-  [Compile-Time/Run-Time Functional Programming in C++](https://www.youtube.com/watch?v=WtHWFoKf8o0), **Bartosz Milewski**, **Eric Niebler**, BoostCon, 2012
 - [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
 - [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
 - [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), **David Sankel**, C++ Now, 2014
@@ -146,6 +150,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Phil Nash**
 - **Kevlin Henney**
 - **Rainer Grimm**
+- **Eric Niebler**
 - **Paul Fultz**
 - **Michał Dominiak**
 - **Stuart Golodetz**
