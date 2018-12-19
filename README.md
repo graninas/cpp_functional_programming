@@ -1,4 +1,5 @@
-# Functional Programming in C++
+Functional Programming in C++
+=============================
 
 List of materials and links about functional programming in C++.
 
@@ -50,6 +51,8 @@ All the materials are in English if the language is not specified explicitly.
 
 ## Talks and Screencasts
 
+**Talks**
+
 - [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), **Ivan Čukić**, Meeting C++, 2017
 - [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
 - [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
@@ -60,9 +63,10 @@ All the materials are in English if the language is not specified explicitly.
 - [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), **Bartosz Milewski**, itCppCon17, 2017
 - [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), **Ivan Čukić**, Curry On!, 2018
 
+**Screencasts**
 
 - [Learning Modern C++ Functional Programming: Understand Essential Part (Screencast)](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
-- [Functional Programming in C++ Using Lambda Expressions (Screencast)][https://www.youtube.com/watch?v=58BrFvjNhWY], CodesBay, 2018
+- [Functional Programming in C++ Using Lambda Expressions (Screencast)](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
 ## StackOverflow Questions
 
