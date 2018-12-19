@@ -90,6 +90,12 @@ All the materials are in English if the language is not specified explicitly.
   * [Categories for the Working C++ Programmer](https://www.youtube.com/watch?v=eCUfzvz7Z20), C++ Russia, 2015
   * [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), itCppCon17, 2017
 
+- **Eric Niebler** talks
+  * [Compile-Time/Run-Time Functional Programming in C++](https://www.youtube.com/watch?v=WtHWFoKf8o0), **Bartosz Milewski**, **Eric Niebler**, BoostCon, 2012
+  * [Ranges for the Standard Library](https://www.youtube.com/watch?v=mFUXNMfaciE), CppCon, 2015
+  * [Ranges for the Standard Library](https://www.youtube.com/watch?v=gOKHcQad7xE), C++ Siberia, 2015
+  * [Introducing the Ranges TS](https://www.youtube.com/watch?v=LNXkPh3Z418), code::dive, 2017
+  
 - **Ivan Čukić** talks
   * [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), Meeting C++, 2017
   * [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), Curry On!, 2018
@@ -100,7 +106,6 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
--  [Compile-Time/Run-Time Functional Programming in C++](https://www.youtube.com/watch?v=WtHWFoKf8o0), **Bartosz Milewski**, **Eric Niebler**, BoostCon, 2012
 - [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
 - [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
 - [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), **David Sankel**, C++ Now, 2014
