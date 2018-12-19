@@ -25,6 +25,7 @@ List of materials and links about functional programming in C++.
 - [Lambdas: The Functional Programming Companion of Modern C++](https://medium.com/@DakshHub/lambdas-the-companion-of-modern-c-b7dfd43b5abb)
 - [Functional programming in C++](http://blog.madhukaraphatak.com/functional-programming-in-c++/)
 - [What Does Haskell Have to Do with C++?](https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/),  **Bartosz Milewski**, 2009
+- [Make your functions functional](https://www.fluentcpp.com/2016/11/22/make-your-functions-functional/)
 
 ### Monads
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
@@ -33,6 +34,8 @@ List of materials and links about functional programming in C++.
 - [The Vector Monad in C++, Really Without the Ugly Stuff](https://medium.com/@barryrevzin/the-vector-monad-in-c-really-without-the-ugly-stuff-3112137db5d7), **Barry Revzin**, 2017
 - [Multiple error handling with the optional monad in C++](https://www.fluentcpp.com/2017/07/04/multiple-error-handling-with-the-optional-monad-in-c/), **Jonathan Boccara**, 2017
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
+- [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html)
+- [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
 
 
 ## Talks
@@ -44,7 +47,8 @@ List of materials and links about functional programming in C++.
 - [Functional Patterns in C++, 3. Async API, Monoid, Monad](https://www.youtube.com/watch?v=ozN6XxsAF84), **Bartosz Milewski**, 2012
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
-- [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), Bartosz Milewski, itCppCon17, 2017
+- [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), **Bartosz Milewski**, itCppCon17, 2017
+- [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), **Ivan Čukić**, Curry On!, 2018
 
 ## StackOverflow Questions
 
@@ -57,12 +61,14 @@ List of materials and links about functional programming in C++.
 - [Composable monadic STM for C++ on Free monads](https://github.com/graninas/cpp_stm_free)
 - [FTL - The Functional Template Library](https://github.com/beark/ftl)
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
+- [Boost.Hana](https://boostorg.github.io/hana)
+- [neither](https://github.com/loopperfect/neither)
 
 ## Showcase Projects
 
 ## C++ FP Experts
 
-The list of autors of the materials presented here.
+The list of authors of the materials presented here.
 _Please, pm me if you don't want to be in this list. Or if you want to be there._
 
 - **Bartosz Milewski**
