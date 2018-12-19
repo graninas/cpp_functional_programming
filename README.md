@@ -10,7 +10,9 @@ All the materials are in English if the language is not specified explicitly.
 - [Books](#books)
 - [Articles](#articles)
   * [Basics](#basics)
-  * [Monads](#monads)
+  * [Advanced topics](#advanced-topics)
+    - [Monads](#monads)
+    - [Design Concepts and Approaches](#design-concepts-and-approaches)
 - [Talks and Screencasts](#talks-and-screencasts)
 - [StackOverflow questions](#stackoverflow-questions) 
 - [Quora questions](#quora-questions)
@@ -37,7 +39,10 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
   * [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
 
-### Monads
+### Advanced topics
+
+#### Monads
+
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
 - [Monads in C++](http://www.modernescpp.com/index.php/monads-in-c), **Rainer Grimm**, 2017
 - [The Vector Monad in C++, Without the Ugly Stuff](http://www.fluentcpp.com/2017/07/14/the-vector-monad-in-c-without-the-ugly-stuff), **Jonathan Boccara**, 2017
@@ -48,6 +53,10 @@ All the materials are in English if the language is not specified explicitly.
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
 - [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
 - [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
+
+#### Design Concetps and Approaches**
+
+- [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
 ## Talks and Screencasts
 
@@ -82,7 +91,7 @@ All the materials are in English if the language is not specified explicitly.
 
 - [Boost.Hana](https://boostorg.github.io/hana)
 - [Composable monadic STM for C++ on Free monads](https://github.com/graninas/cpp_stm_free)
-  * [Tutorial](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525)
+  * [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525)
 - [FTL - The Functional Template Library](https://github.com/beark/ftl)
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
 - [neither](https://github.com/loopperfect/neither)
