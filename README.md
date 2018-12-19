@@ -98,7 +98,6 @@ All the materials are in English if the language is not specified explicitly.
 
 - [Boost.Hana](https://boostorg.github.io/hana)
 - [Composable monadic STM for C++ on Free monads](https://github.com/graninas/cpp_stm_free)
-  * [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525)
 - [FTL - The Functional Template Library](https://github.com/beark/ftl)
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
 - [neither](https://github.com/loopperfect/neither)
