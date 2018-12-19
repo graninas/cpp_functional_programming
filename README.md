@@ -43,6 +43,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
 - [Functional in C++17 and C++20](http://www.modernescpp.com/index.php/functional-in-c-17-and-c-20), **Rainer Grimm**, 2017
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
+- [Study Notes: Functional Programming with C++](https://yongweiwu.wordpress.com/2014/12/07/study-notes-functional-programming-with-cplusplus/), **Yongwei**, 2014
 
 ### Advanced topics
 
@@ -123,6 +124,8 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Barry Revzin**
 - **Toby Allsopp**
 - **Isabella Muerte**
+- **Brian McNamara**
+- **nikitablack**
 - **Wisnu Anggoro**
 - **Chris Weed**
 - **Kiryll Shynharow**
