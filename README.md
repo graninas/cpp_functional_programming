@@ -46,6 +46,9 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
 - [Study Notes: Functional Programming with C++](https://yongweiwu.wordpress.com/2014/12/07/study-notes-functional-programming-with-cplusplus/), **Yongwei**, 2014
 - [Efficient Pure Functional Programming in C++ Using Move Semantics](https://blog.knatten.org/2012/11/02/efficient-pure-functional-programming-in-c-using-move-semantics/), **Anders Schau Knatten**, 2012
+- [C++ is a Dynamic, Pure, Functional Programming Language](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/), **brosenan**, 2016
+- [Functional Concepts in C++](http://www.cs.nott.ac.uk/~psznhn/TFP2006/Papers/25-RaufBergerSetzer-FunctionalConceptsInC++.pdf), **Rose H. Abdul Rauf, Ulrich Berger, Anton Setzer**
+- [The connection between C++ template metaprogramming and functional programming](http://www.tnkcs.inf.elte.hu/vedes/sinkovics_abel_ertekezes.pdf), **Abel Sinkovics**, 2013
 - [Functional C++. Abusing the type system like never before. (Blog)](https://functionalcpp.wordpress.com/), ?
   * [Function Traits](https://functionalcpp.wordpress.com/2013/08/05/function-traits/), 2013
   * [Function Composition](https://functionalcpp.wordpress.com/2013/08/09/function-composition/), 2013
@@ -84,6 +87,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional Patterns in C++, 3. Async API, Monoid, Monad](https://www.youtube.com/watch?v=ozN6XxsAF84), **Bartosz Milewski**, 2012
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
+- [Practical Functional Programming in C++](https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/009-Practical-Functional-Programming-in-CPP), **Bryce Adelstein-Lelbach**, CppCon, 2014
 - [Monads for C++](https://www.youtube.com/watch?v=vkcxgagQ4bM), **Bartosz Milewski**, itCppCon17, 2017
 - [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), **Ivan Čukić**, Curry On!, 2018
 - [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
@@ -101,8 +105,10 @@ All the materials are in English if the language is not specified explicitly.
 
 #### StackOverflow Questions
 
+- [Functional Programming in C++](https://stackoverflow.com/questions/1981400/functional-programming-in-c)
 - [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
 - [Monad interface in C++](https://stackoverflow.com/questions/39725190/monad-interface-in-c)
+- [C++ Design: Functional Programming vs OOP](https://softwareengineering.stackexchange.com/questions/180522/c-design-functional-programming-vs-oop)
 
 #### Quora Questions
 
@@ -116,6 +122,7 @@ All the materials are in English if the language is not specified explicitly.
 - [FTL - The Functional Template Library](https://github.com/beark/ftl)
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
 - [neither](https://github.com/loopperfect/neither)
+- [Cat](https://github.com/awgn/cat)
 
 ## Showcase Projects
 
@@ -137,10 +144,12 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **David Sankel**
 - **Jonathan Boccara**
 - **Barry Revzin**
+- **Bryce Adelstein-Lelbach**
 - **Toby Allsopp**
 - **Isabella Muerte**
 - **Brian McNamara**
 - **nikitablack**
+- **Abel Sinkovics**
 - **Wisnu Anggoro**
 - **Chris Weed**
 - **Kiryll Shynharow**
