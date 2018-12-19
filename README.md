@@ -119,8 +119,8 @@ All the materials are in English if the language is not specified explicitly.
 
 **Screencasts**
 
-- [Learning Modern C++ Functional Programming: Understand Essential Part (Screencast)](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
-- [Functional Programming in C++ Using Lambda Expressions (Screencast)](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
+- [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
+- [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
 ## QA
 
@@ -146,6 +146,8 @@ All the materials are in English if the language is not specified explicitly.
 - [Cat](https://github.com/awgn/cat)
 
 ## Showcase Projects
+
+_TODO_
 
 ## C++ FP Experts
 
