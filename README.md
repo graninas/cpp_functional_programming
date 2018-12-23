@@ -10,6 +10,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Books](#books)
 - [Articles](#articles)
   * [Basics](#basics)
+  * [Blogs](#blogs)
   * [Advanced topics](#advanced-topics)
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
@@ -51,6 +52,9 @@ All the materials are in English if the language is not specified explicitly.
 - [Efficient Pure Functional Programming in C++ Using Move Semantics](https://blog.knatten.org/2012/11/02/efficient-pure-functional-programming-in-c-using-move-semantics/), **Anders Schau Knatten**, 2012
 - [C++ is a Dynamic, Pure, Functional Programming Language](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/), **brosenan**, 2016
 - [The connection between C++ template metaprogramming and functional programming](http://www.tnkcs.inf.elte.hu/vedes/sinkovics_abel_ertekezes.pdf), **Abel Sinkovics**, 2013
+
+### Blogs
+
 - [Functional C++. Abusing the type system like never before. (Blog)](https://functionalcpp.wordpress.com/), ?
   * [Function Traits](https://functionalcpp.wordpress.com/2013/08/05/function-traits/), 2013
   * [Function Composition](https://functionalcpp.wordpress.com/2013/08/09/function-composition/), 2013
@@ -62,7 +66,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Folding Functions](http://cpptruths.blogspot.com/2016/12/folding-functions.html), 2016
   * [Dependently-typed Curried printf in C++](http://cpptruths.blogspot.com/2016/11/dependently-typed-curried-printf.html?m=1), 2016
   * [Folding Monadic Functions](http://cpptruths.blogspot.com/2017/01/folding-monadic-functions.html?m=1), 2017
-  * [Ground Up Functional API Design in C++](http://cpptruths.blogspot.com/2017/12/ground-up-functional-api-design-in-c.html?m=1), 2017
+  * And more...
 
 ### Advanced topics
 
