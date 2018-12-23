@@ -199,6 +199,10 @@ All the materials are in English if the language is not specified explicitly.
 - [Lager](https://github.com/arximboldi/lager), **Juan Pedro Bolívar Puente**
 
   Library for functional interactive C++ programs // Redux for C++
+  
+- [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)
+
+  Functional Programming Library for C++. Write concise and readable C++ code. 
  
 ## Showcase Projects
 
