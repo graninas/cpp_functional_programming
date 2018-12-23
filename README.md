@@ -15,6 +15,7 @@ All the materials are in English if the language is not specified explicitly.
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
   * [Papers]
 - [Talks and Screencasts](#talks-and-screencasts)
+- [Cources](#cources)
 - [QA](#qa)
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
@@ -130,6 +131,10 @@ All the materials are in English if the language is not specified explicitly.
 - [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
 - [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
+## Cources
+
+- [Functional Programming using C++](https://www.youtube.com/watch?v=jD8Tu1tqvZo), **Tobias Hermann**, 2017
+
 ## QA
 
 #### StackOverflow Questions
@@ -185,7 +190,7 @@ All the materials are in English if the language is not specified explicitly.
 
 - [CMLife](https://github.com/graninas/CMLife), **Alexander Granin**
 
-  Functional Game of Life on C++. Uses functional declarative design and functional idioms (comonads, zippers etc.)
+  Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)
 
 ## C++ FP Experts
 
@@ -217,3 +222,4 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Chris Weed**
 - **Kiryll Shynharow**
 - **Alexander Granin**
+- **Tobias Hermann**
