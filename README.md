@@ -156,7 +156,7 @@ All the materials are in English if the language is not specified explicitly.
 
   Postmodern immutable and persistent data structures for C++
 
-- [Lager][https://github.com/arximboldi/lager], **Juan Pedro Bolívar Puente**
+- [Lager][https://github.com/arximboldi/lager), **Juan Pedro Bolívar Puente**
 
   Library for functional interactive C++ programs // Redux for C++
  
