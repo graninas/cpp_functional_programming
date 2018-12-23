@@ -14,7 +14,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Advanced topics](#advanced-topics)
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
-  * [Papers]
+  * [Papers](#papers)
 - [Talks and Screencasts](#talks-and-screencasts)
   * [Talks](#talks)
   * [Screencasts](#screencasts)
