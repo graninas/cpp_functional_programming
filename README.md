@@ -152,10 +152,15 @@ All the materials are in English if the language is not specified explicitly.
 - [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
 - [neither](https://github.com/loopperfect/neither)
 - [Cat](https://github.com/awgn/cat)
-
+- [Immer](https://github.com/arximboldi/immer), **Juan Pedro Bolívar Puente**
+  Postmodern immutable and persistent data structures for C++
+- [Lager][https://github.com/arximboldi/lager], **Juan Pedro Bolívar Puente**
+  Library for functional interactive C++ programs // Redux for C++
+ 
 ## Showcase Projects
 
-_TODO_
+- [Ewig](https://github.com/arximboldi/ewig), **Juan Pedro Bolívar Puente**
+  A mini-emacs built using C++ in a functional way, using the Redux architecture. Supports efficiently editing huge file and concurrent loading/saving.
 
 ## C++ FP Experts
 
