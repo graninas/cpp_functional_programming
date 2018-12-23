@@ -118,6 +118,12 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
   * [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
 
+- **David Sankel** talks
+  * [Functional Programming in C++](https://www.youtube.com/watch?v=PVjaFMwV4x0), BoostCon, 2013
+  * [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), C++ Now, 2014
+  * [Functional Design Explained](https://www.youtube.com/watch?v=x9mIAT-CAwA), CppCon, 2015
+  * [The Mathematical Underpinnings of Promises in C++](https://www.youtube.com/watch?v=2OY0Zn3oBCE), BoostCon, 2017
+  
 - **Alexander Granin** talks (Rus)
   * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
   * [Functional Microscope: Lenses in C++ (Rus)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
@@ -125,13 +131,13 @@ All the materials are in English if the language is not specified explicitly.
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
 - [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
-- [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), **David Sankel**, C++ Now, 2014
 - [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
 - [Practical Functional Programming in C++](https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/009-Practical-Functional-Programming-in-CPP), **Bryce Adelstein-Lelbach**, CppCon, 2014
 - [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
 - [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
 - [Generalized Full Duplex Messaging](https://www.youtube.com/watch?v=UalTAQmP3iE), **Jason Rice**, C++ Now, 2018
+- [**constexpr** ALL the Things! (Combinatorial parsers)](https://www.youtube.com/watch?v=PJwd4JLYJJY), **Ben Deane**, **Jason Turner**, CppCon, 2017
 
 **Screencasts**
 
@@ -202,9 +208,13 @@ All the materials are in English if the language is not specified explicitly.
 
   Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)
 
+- [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad), **Toby Allsopp**
+
+  Using coroutines for monadic composition
+
 ## C++ FP Experts
 
-The list of authors of the materials presented here.
+The list of authors of the materials presented here (can be missing by occasion).
 
 _Please, pm me if you don't want to be in this list. Or if you want to be there._
 
@@ -226,11 +236,15 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Toby Allsopp**
 - **Isabella Muerte**
 - **Brian McNamara**
+- **Ben Deane**
+- **Jason Turner**
 - **nikitablack**
 - **Abel Sinkovics**
 - **Wisnu Anggoro**
+- **Simon Brand**
 - **Chris Weed**
 - **Kiryll Shynharow**
 - **Alexander Granin**
 - **Tobias Hermann**
 - **Jason Rice**
+- **Toby Allsopp**
