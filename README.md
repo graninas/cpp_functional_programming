@@ -147,9 +147,17 @@ All the materials are in English if the language is not specified explicitly.
 ## Libraries
 
 - [Boost.Hana](https://boostorg.github.io/hana)
-- [Composable monadic STM for C++ on Free monads](https://github.com/graninas/cpp_stm_free)
-- [FTL - The Functional Template Library](https://github.com/beark/ftl)
-- [LIBF++ 0.2 -- C++ as a Pure Functional Language](https://github.com/GJDuck/libf)
+- [cpp_stm_free](https://github.com/graninas/cpp_stm_free), **Alexander Granin**
+  Composable monadic STM for C++ on Free monads
+  
+- [FTL](https://github.com/beark/ftl)
+  
+  The Functional Template Library
+   
+- [LIBF++](https://github.com/GJDuck/libf)
+
+  C++ as a Pure Functional Language
+  
 - [neither](https://github.com/loopperfect/neither)
 - [Cat](https://github.com/awgn/cat)
 - [Immer](https://github.com/arximboldi/immer), **Juan Pedro Bolívar Puente**
