@@ -15,6 +15,8 @@ All the materials are in English if the language is not specified explicitly.
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
   * [Papers]
 - [Talks and Screencasts](#talks-and-screencasts)
+  * [Talks](#talks)
+  * [Screencasts](#screencasts)
 - [Cources](#cources)
 - [QA](#qa)
   * [StackOverflow questions](#stackoverflow-questions) 
@@ -129,6 +131,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Practical Functional Programming in C++](https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/009-Practical-Functional-Programming-in-CPP), **Bryce Adelstein-Lelbach**, CppCon, 2014
 - [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
 - [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
+- [Generalized Full Duplex Messaging](https://www.youtube.com/watch?v=UalTAQmP3iE), **Jason Rice**, C++ Now, 2018
 
 **Screencasts**
 
@@ -156,6 +159,9 @@ All the materials are in English if the language is not specified explicitly.
 ## Libraries
 
 - [Boost.Hana](https://boostorg.github.io/hana)
+
+  Boost.Hana is a library with concepts borrowed from category theory
+  
 - [cpp_stm_free](https://github.com/graninas/cpp_stm_free), **Alexander Granin**
 
   Composable monadic STM for C++ on Free monads
@@ -227,3 +233,4 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Kiryll Shynharow**
 - **Alexander Granin**
 - **Tobias Hermann**
+- **Jason Rice**
