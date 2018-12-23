@@ -148,6 +148,7 @@ All the materials are in English if the language is not specified explicitly.
 
 - [Boost.Hana](https://boostorg.github.io/hana)
 - [cpp_stm_free](https://github.com/graninas/cpp_stm_free), **Alexander Granin**
+
   Composable monadic STM for C++ on Free monads
   
 - [FTL](https://github.com/beark/ftl)
@@ -173,6 +174,18 @@ All the materials are in English if the language is not specified explicitly.
 - [Ewig](https://github.com/arximboldi/ewig), **Juan Pedro Bolívar Puente**
 
   A mini-emacs built using C++ in a functional way, using the Redux architecture. Supports efficiently editing huge file and concurrent loading/saving.
+  
+- [Amber](https://github.com/graninas/Amber), **Alexander Granin**
+
+  The 'Amber' game project demonstranting functional and declarative design in C++.
+
+- [cpp_lenses](https://github.com/graninas/cpp_lenses), **Alexander Granin**
+
+  Functional lenses demo in C++
+
+- [CMLife](https://github.com/graninas/CMLife), **Alexander Granin**
+
+  Functional Game of Life on C++. Uses functional declarative design and functional idioms (comonads, zippers etc.)
 
 ## C++ FP Experts
 
