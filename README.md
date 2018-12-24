@@ -61,7 +61,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Continuation Passing Style](https://functionalcpp.wordpress.com/2013/11/19/continuation-passing-style/), 2013
   * [Composing Continuations](https://functionalcpp.wordpress.com/2015/01/19/composing-continuations/), 2015
   * And more...
-- [C++ Truths (Blog)], **Sumant Tambe**
+- [C++ Truths (Blog)](http://cpptruths.blogspot.com/), **Sumant Tambe**
   * [Understanding Fold Expressions](http://cpptruths.blogspot.com/2016/12/understanding-fold-expressions.html), 2016
   * [Folding Functions](http://cpptruths.blogspot.com/2016/12/folding-functions.html), 2016
   * [Dependently-typed Curried printf in C++](http://cpptruths.blogspot.com/2016/11/dependently-typed-curried-printf.html?m=1), 2016
