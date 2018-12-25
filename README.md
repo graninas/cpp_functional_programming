@@ -72,6 +72,7 @@ All the materials are in English if the language is not specified explicitly.
 
 #### Monads
 
+- [A word on Haskell Monads and C++](http://newartisans.com/2010/07/a-word-on-haskell-monads-and-c/), **John Wiegley**, 2010
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
 - [Monads in C++](http://www.modernescpp.com/index.php/monads-in-c), **Rainer Grimm**, 2017
 - [The Vector Monad in C++, Without the Ugly Stuff](http://www.fluentcpp.com/2017/07/14/the-vector-monad-in-c-without-the-ugly-stuff), **Jonathan Boccara**, 2017
@@ -205,40 +206,41 @@ All the materials are in English if the language is not specified explicitly.
 
 ## C++ FP Experts
 
-The list of authors of the materials presented here (can be missing by occasion).
+The list of authors of the materials presented here, listed alphabetically. (Some authors can be missing by occasion).
 
 _Please, pm me if you don't want to be in this list. Or if you want to be there._
 
-- **John Carmack**
-- **Bartosz Milewski**
-- **Ivan Čukić**
-- **Phil Nash**
-- **Kevlin Henney**
-- **Rainer Grimm**
-- **Eric Niebler**
-- **Paul Fultz**
-- **Michał Dominiak**
-- **Stuart Golodetz**
-- **David Sankel**
-- **Jonathan Boccara**
-- **Barry Revzin**
-- **Juan Pedro Bolívar Puente**
-- **Bryce Adelstein-Lelbach**
-- **Toby Allsopp**
-- **Isabella Muerte**
-- **Brian McNamara**
-- **Ben Deane**
-- **Jason Turner**
-- **Nicola Bonelli**
-- **nikitablack**
 - **Abel Sinkovics**
-- **Wisnu Anggoro**
-- **Simon Brand**
-- **Chris Weed**
-- **Kiryll Shynharow**
 - **Alexander Granin**
-- **Tobias Hermann**
-- **Jason Rice**
-- **Toby Allsopp**
-- **Sumant Tambe**
 - **Anders Schau Knatten**
+- **Barry Revzin**
+- **Bartosz Milewski**
+- **Ben Deane**
+- **Brian McNamara**
+- **Bryce Adelstein-Lelbach**
+- **Chris Weed**
+- **David Sankel**
+- **Eric Niebler**
+- **Isabella Muerte**
+- **Ivan Čukić**
+- **Jason Rice**
+- **Jason Turner**
+- **John Carmack**
+- **John Wiegley**
+- **Jonathan Boccara**
+- **Juan Pedro Bolívar Puente**
+- **Kevlin Henney**
+- **Kiryll Shynharow**
+- **Michał Dominiak**
+- **Nicola Bonelli**
+- **Paul Fultz**
+- **Phil Nash**
+- **Rainer Grimm**
+- **Simon Brand**
+- **Stuart Golodetz**
+- **Sumant Tambe**
+- **Tobias Hermann**
+- **Toby Allsopp**
+- **Toby Allsopp**
+- **Wisnu Anggoro**
+- **nikitablack**
