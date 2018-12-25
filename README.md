@@ -212,7 +212,7 @@ List of materials and links about functional programming in C++.
 
 # Projects
 
-## Libraries
+### Libraries
 
 | Library                                                     | Description                                                                      | Author                    |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
@@ -231,7 +231,7 @@ List of materials and links about functional programming in C++.
 |                                                             |                                                                                  |                           |
 
  
-## Showcase Projects
+### Showcase Projects
 
 | Project                                                            | Description                                                                                                                                          | Author                    |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -247,7 +247,7 @@ List of materials and links about functional programming in C++.
 
 # Misc
 
-## C++ FP Experts
+### C++ FP Experts
 
 The list of authors of the materials presented here, listed alphabetically. (Some authors can be missing by occasion).
 
