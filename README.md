@@ -190,29 +190,18 @@ All the materials are in English if the language is not specified explicitly.
 |                                                             |                                                                                  |                           |
 |                                                             |                                                                                  |                           |
 
-
  
 ## Showcase Projects
 
-- [Ewig](https://github.com/arximboldi/ewig), **Juan Pedro Bolívar Puente**
-
-  A mini-emacs built using C++ in a functional way, using the Redux architecture. Supports efficiently editing huge file and concurrent loading/saving.
-  
-- [Amber](https://github.com/graninas/Amber), **Alexander Granin**
-
-  The 'Amber' game project demonstranting functional and declarative design in C++.
-
-- [cpp_lenses](https://github.com/graninas/cpp_lenses), **Alexander Granin**
-
-  Functional lenses demo in C++
-
-- [CMLife](https://github.com/graninas/CMLife), **Alexander Granin**
-
-  Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)
-
-- [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad), **Toby Allsopp**
-
-  Using coroutines for monadic composition
+| Project                                                            | Description                                                                                                                                          | Author                    |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| [Ewig](https://github.com/arximboldi/ewig)                         | A mini-emacs built using C++ in a functional way, using the Redux architecture. Supports efficiently editing huge file and concurrent loading/saving | Juan Pedro Bolívar Puente |
+| [Amber](https://github.com/graninas/Amber)                         | The 'Amber' game project demonstranting functional and declarative design in C++.                                                                    | Alexander Granin          |
+| [cpp_lenses](https://github.com/graninas/cpp_lenses)               | Functional lenses demo in C++                                                                                                                        | Alexander Granin          |
+| [CMLife](https://github.com/graninas/CMLife)                       | Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)                                | Alexander Granin          |
+| [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad) | Using coroutines for monadic composition                                                                                                             | Toby Allsopp              |
+|                                                                    |                                                                                                                                                      |                           |
+|                                                                    |                                                                                                                                                      |                           | 
 
 ## C++ FP Experts
 
