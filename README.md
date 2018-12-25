@@ -191,8 +191,8 @@ List of materials and links about functional programming in C++.
 
 ### Basics (Rus)
 
-- [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
-  * [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
+- [Functional programming in c++ by example](https://habr.com/post/324518/), **nikitablack**, 2017
+  * [Functional programming in c++ by example (Eng)](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
 
 ### Advanced Topics (Rus)
 
@@ -204,11 +204,11 @@ List of materials and links about functional programming in C++.
 
 ## Talks (Rus)
 
-- **Alexander Granin** talks (Rus)
-  * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
-  * [Functional Microscope: Lenses in C++ (Rus)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
-  * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
-  * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
+- **Alexander Granin** talks
+  * [Functional and Declarative Design in C++](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
+  * [Functional Microscope: Lenses in C++](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
+  * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
+  * [Pure Functional Approach to Software Transactional Memory in C++](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
 ---
 
