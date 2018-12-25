@@ -50,7 +50,7 @@ List of materials and links about functional programming in C++.
 
 ## Articles
 
-### Basics
+#### Basics
 
 - [Functional Programming Using C++ Templates (Part 1)](https://accu.org/index.php/journals/1422), **Stuart Golodetz**, 2007
 - [Functional Programming Using C++ Templates (Part 2)](https://accu.org/index.php/journals/1616), **Stuart Golodetz**, 2007
@@ -70,7 +70,7 @@ List of materials and links about functional programming in C++.
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
 - [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 
-### Monads
+#### Monads
 
 - [A word on Haskell Monads and C++](http://newartisans.com/2010/07/a-word-on-haskell-monads-and-c/), **John Wiegley**, 2010
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
@@ -83,7 +83,7 @@ List of materials and links about functional programming in C++.
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
 - [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html), **ShellBlade**
 
-### Design Concepts and Approaches
+#### Design Concepts and Approaches
 
 - [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
@@ -110,7 +110,7 @@ List of materials and links about functional programming in C++.
 
 ## Talks and Screencasts
 
-### Talks
+#### Talks
 
 - **Bartosz Milewski** talks
   * [Functional Patterns in C++, 1. Functors](https://www.youtube.com/watch?v=ph7qt0pkPkc), 2012
@@ -160,7 +160,7 @@ List of materials and links about functional programming in C++.
 - [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
 - [Generalized Full Duplex Messaging](https://www.youtube.com/watch?v=UalTAQmP3iE), **Jason Rice**, C++ Now, 2018
 
-### Screencasts
+#### Screencasts
 
 - [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
 - [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
@@ -171,14 +171,14 @@ List of materials and links about functional programming in C++.
 
 ## QA
 
-### StackOverflow Questions
+#### StackOverflow Questions
 
 - [Functional Programming in C++](https://stackoverflow.com/questions/1981400/functional-programming-in-c)
 - [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
 - [Monad interface in C++](https://stackoverflow.com/questions/39725190/monad-interface-in-c)
 - [C++ Design: Functional Programming vs OOP](https://softwareengineering.stackexchange.com/questions/180522/c-design-functional-programming-vs-oop)
 
-### Quora Questions
+#### Quora Questions
 
 - [Is C++ is a functional programming language or not?](https://www.quora.com/Is-C++-is-a-functional-programming-language-or-not)
 - [Can C++ be used for functional programming?](https://www.quora.com/Can-C++-be-used-for-functional-programming)
@@ -189,18 +189,18 @@ List of materials and links about functional programming in C++.
 
 ## Articles (Rus)
 
-### Basics (Rus)
+#### Basics (Rus)
 
 - [Functional programming in c++ by example](https://habr.com/post/324518/), **nikitablack**, 2017
   * [Functional programming in c++ by example (Eng)](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
 
-### Monads (Rus)
+#### Monads (Rus)
 
-### Design Concepts and Approaches (Rus)
+#### Design Concepts and Approaches (Rus)
 
-# Talks and Screencasts (Rus)
+## Talks and Screencasts (Rus)
 
-## Talks (Rus)
+#### Talks (Rus)
 
 - **Alexander Granin** talks
   * [Functional and Declarative Design in C++](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
