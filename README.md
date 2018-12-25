@@ -99,6 +99,10 @@ All the materials are in English if the language is not specified explicitly.
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
 - [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html), **ShellBlade**
 
+### Design Concepts and Approaches
+
+- [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
+
 ### Papers
 - [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf), **Juan Pedro Bolívar Puente**
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
@@ -166,13 +170,14 @@ All the materials are in English if the language is not specified explicitly.
 
 ### Basics (Rus)
 
+- [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
+  * [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
+  
 ### Advanced Topics (Rus)
 
 #### Monads (Rus)
 
 #### Design Concepts and Approaches (Rus)
-
-- [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
 # Talks and Screencasts (Rus)
 
@@ -183,7 +188,6 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional Microscope: Lenses in C++ (Rus)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
   * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
-
 
 # Cources
 
