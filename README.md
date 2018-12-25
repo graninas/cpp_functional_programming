@@ -3,24 +3,24 @@ Functional Programming in C++
 
 List of materials and links about functional programming in C++.
 
-## [English materials](#english-materials)
+## [English Materials](#english-materials)
 - [Books](#books)
 - [Articles](#articles)
   * [Basics](#basics)
-  * [Blogs](#blogs)
   * [Advanced topics](#advanced-topics)
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
-  * [Papers](#papers)
+- [Papers](#papers)
+- [Blogs](#blogs)
+- [Talks and Screencasts](#talks-and-screencasts)
+  * [Talks](#talks)
+  * [Screencasts](#screencasts)
+- [Cources](#cources)
 - [QA](#qa)
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
 
-## [Russian materials](#russian-materials)
-- [Talks and Screencasts](#talks-and-screencasts)
-  * [Talks](#talks)
-  * [Screencasts](#screencasts)
-  * [Cources](#cources)
+## [Russian Materials](#russian-materials)
 - [Articles (Rus)](#articles-rus)
   * [Basics (Rus)](#basics-rus)
   * [Advanced topics (Rus)](#advanced-topics-rus)
@@ -36,13 +36,17 @@ List of materials and links about functional programming in C++.
 ## [Misc](#misc)
 - [C++ FP Experts](#c-fp-experts)
 
-# Books
+---
+
+# English Materials
+
+## Books
 
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus), **Ivan Čukić**, Manning Publications, 2018
 - [Learning C++ Functional Programming](https://www.oreilly.com/library/view/learning-c-functional/9781787281974/), **Wisnu Anggoro**
 - [Functional Programming with C++](https://www.amazon.com/Functional-Programming-C-Chris-Weed-ebook/dp/B017AT4OMI), **Chris Weed**
 
-# Articles
+## Articles
 
 ### Basics
 
@@ -64,21 +68,6 @@ List of materials and links about functional programming in C++.
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
 - [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 
-### Blogs
-
-- [Functional C++. Abusing the type system like never before. (Blog)](https://functionalcpp.wordpress.com/), ?
-  * [Function Traits](https://functionalcpp.wordpress.com/2013/08/05/function-traits/), 2013
-  * [Function Composition](https://functionalcpp.wordpress.com/2013/08/09/function-composition/), 2013
-  * [Continuation Passing Style](https://functionalcpp.wordpress.com/2013/11/19/continuation-passing-style/), 2013
-  * [Composing Continuations](https://functionalcpp.wordpress.com/2015/01/19/composing-continuations/), 2015
-  * And more...
-- [C++ Truths (Blog)](http://cpptruths.blogspot.com/), **Sumant Tambe**
-  * [Understanding Fold Expressions](http://cpptruths.blogspot.com/2016/12/understanding-fold-expressions.html), 2016
-  * [Folding Functions](http://cpptruths.blogspot.com/2016/12/folding-functions.html), 2016
-  * [Dependently-typed Curried printf in C++](http://cpptruths.blogspot.com/2016/11/dependently-typed-curried-printf.html?m=1), 2016
-  * [Folding Monadic Functions](http://cpptruths.blogspot.com/2017/01/folding-monadic-functions.html?m=1), 2017
-  * And more...
-
 ### Advanced topics
 
 #### Monads
@@ -98,13 +87,28 @@ List of materials and links about functional programming in C++.
 
 - [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
-### Papers
+## Papers
 - [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf), **Juan Pedro Bolívar Puente**
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
 - [Functional Concepts in C++](http://www.cs.nott.ac.uk/~psznhn/TFP2006/Papers/25-RaufBergerSetzer-FunctionalConceptsInC++.pdf), **Rose H. Abdul Rauf, Ulrich Berger, Anton Setzer**
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
 
-# Talks and Screencasts
+## Blogs
+
+- [Functional C++. Abusing the type system like never before. (Blog)](https://functionalcpp.wordpress.com/), ?
+  * [Function Traits](https://functionalcpp.wordpress.com/2013/08/05/function-traits/), 2013
+  * [Function Composition](https://functionalcpp.wordpress.com/2013/08/09/function-composition/), 2013
+  * [Continuation Passing Style](https://functionalcpp.wordpress.com/2013/11/19/continuation-passing-style/), 2013
+  * [Composing Continuations](https://functionalcpp.wordpress.com/2015/01/19/composing-continuations/), 2015
+  * And more...
+- [C++ Truths (Blog)](http://cpptruths.blogspot.com/), **Sumant Tambe**
+  * [Understanding Fold Expressions](http://cpptruths.blogspot.com/2016/12/understanding-fold-expressions.html), 2016
+  * [Folding Functions](http://cpptruths.blogspot.com/2016/12/folding-functions.html), 2016
+  * [Dependently-typed Curried printf in C++](http://cpptruths.blogspot.com/2016/11/dependently-typed-curried-printf.html?m=1), 2016
+  * [Folding Monadic Functions](http://cpptruths.blogspot.com/2017/01/folding-monadic-functions.html?m=1), 2017
+  * And more...
+
+## Talks and Screencasts
 
 ### Talks
 
@@ -161,13 +165,35 @@ List of materials and links about functional programming in C++.
 - [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
 - [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
-# Articles (Rus)
+## Cources
+
+- [Functional Programming using C++](https://www.youtube.com/watch?v=jD8Tu1tqvZo), **Tobias Hermann**, 2017
+
+## QA
+
+### StackOverflow Questions
+
+- [Functional Programming in C++](https://stackoverflow.com/questions/1981400/functional-programming-in-c)
+- [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
+- [Monad interface in C++](https://stackoverflow.com/questions/39725190/monad-interface-in-c)
+- [C++ Design: Functional Programming vs OOP](https://softwareengineering.stackexchange.com/questions/180522/c-design-functional-programming-vs-oop)
+
+### Quora Questions
+
+- [Is C++ is a functional programming language or not?](https://www.quora.com/Is-C++-is-a-functional-programming-language-or-not)
+- [Can C++ be used for functional programming?](https://www.quora.com/Can-C++-be-used-for-functional-programming)
+
+---
+
+# Russian Materials
+
+## Articles (Rus)
 
 ### Basics (Rus)
 
 - [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
   * [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
-  
+
 ### Advanced Topics (Rus)
 
 #### Monads (Rus)
@@ -176,7 +202,7 @@ List of materials and links about functional programming in C++.
 
 # Talks and Screencasts (Rus)
 
-### Talks (Rus)
+## Talks (Rus)
 
 - **Alexander Granin** talks (Rus)
   * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
@@ -184,25 +210,11 @@ List of materials and links about functional programming in C++.
   * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
-# Cources
+---
 
-- [Functional Programming using C++](https://www.youtube.com/watch?v=jD8Tu1tqvZo), **Tobias Hermann**, 2017
+# Projects
 
-# QA
-
-#### StackOverflow Questions
-
-- [Functional Programming in C++](https://stackoverflow.com/questions/1981400/functional-programming-in-c)
-- [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
-- [Monad interface in C++](https://stackoverflow.com/questions/39725190/monad-interface-in-c)
-- [C++ Design: Functional Programming vs OOP](https://softwareengineering.stackexchange.com/questions/180522/c-design-functional-programming-vs-oop)
-
-#### Quora Questions
-
-- [Is C++ is a functional programming language or not?](https://www.quora.com/Is-C++-is-a-functional-programming-language-or-not)
-- [Can C++ be used for functional programming?](https://www.quora.com/Can-C++-be-used-for-functional-programming)
-
-# Libraries
+## Libraries
 
 | Library                                                     | Description                                                                      | Author                    |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
@@ -221,7 +233,7 @@ List of materials and links about functional programming in C++.
 |                                                             |                                                                                  |                           |
 
  
-# Showcase Projects
+## Showcase Projects
 
 | Project                                                            | Description                                                                                                                                          | Author                    |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -233,7 +245,11 @@ List of materials and links about functional programming in C++.
 |                                                                    |                                                                                                                                                      |                           |
 |                                                                    |                                                                                                                                                      |                           | 
 
-# C++ FP Experts
+---
+
+# Misc
+
+## C++ FP Experts
 
 The list of authors of the materials presented here, listed alphabetically. (Some authors can be missing by occasion).
 
