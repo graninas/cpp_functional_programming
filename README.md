@@ -47,12 +47,12 @@ All the materials are in English if the language is not specified explicitly.
 - [Make your functions functional](https://www.fluentcpp.com/2016/11/22/make-your-functions-functional/), **Jonathan Boccara**, 2016
 - [C++ is a Dynamic, Pure, Functional Programming Language](https://cloudalion.org/2016/09/08/c-is-a-dynamic-pure-functional-programming-language/), **brosenan**, 2016
 - [An Overview of Elements of Functional Programming in C++](https://community.idera.com/developer-tools/b/blog/posts/an-overview-of-elements-of-functional-programming-in-c), **Kiryll Shynharow**, 2017
-- [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 - [Functional programming in c++ by example](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
   * [Functional programming in c++ by example (Rus)](https://habr.com/post/324518/), **nikitablack**, 2017
 - [Functional in C++17 and C++20](http://www.modernescpp.com/index.php/functional-in-c-17-and-c-20), **Rainer Grimm**, 2017
 - [Lambdas: The Functional Programming Companion of Modern C++](https://medium.com/@DakshHub/lambdas-the-companion-of-modern-c-b7dfd43b5abb), **Daksh**, 2018
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
+- [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 
 ### Blogs
 
@@ -75,13 +75,13 @@ All the materials are in English if the language is not specified explicitly.
 
 - [A word on Haskell Monads and C++](http://newartisans.com/2010/07/a-word-on-haskell-monads-and-c/), **John Wiegley**, 2010
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
+- [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
 - [Monads in C++](http://www.modernescpp.com/index.php/monads-in-c), **Rainer Grimm**, 2017
 - [The Vector Monad in C++, Without the Ugly Stuff](http://www.fluentcpp.com/2017/07/14/the-vector-monad-in-c-without-the-ugly-stuff), **Jonathan Boccara**, 2017
 - [The Vector Monad in C++, Really Without the Ugly Stuff](https://medium.com/@barryrevzin/the-vector-monad-in-c-really-without-the-ugly-stuff-3112137db5d7), **Barry Revzin**, 2017
 - [Multiple error handling with the optional monad in C++](https://www.fluentcpp.com/2017/07/04/multiple-error-handling-with-the-optional-monad-in-c/), **Jonathan Boccara**, 2017
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
 - [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html), **ShellBlade**
-- [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
 
 #### Design Concetps and Approaches
 
@@ -142,14 +142,14 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
-- [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
-- [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
-- [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
 - [Practical Functional Programming in C++](https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/009-Practical-Functional-Programming-in-CPP), **Bryce Adelstein-Lelbach**, CppCon, 2014
+- [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
+- [Goodbye metaprogramming, and hello functional](https://www.youtube.com/watch?v=fH2WBvI8dbk), **Paul Fultz**, 2016
+- [Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk&t=169s), **Kevlin Henney**, BUILD STUFF, 2017
 - [Functional Programming Tools in C++](https://vimeo.com/246623471), **Sumant Tambe**, SF Bay Area ACCU, 2017
+- [**constexpr** ALL the Things! (Combinatorial parsers)](https://www.youtube.com/watch?v=PJwd4JLYJJY), **Ben Deane**, **Jason Turner**, CppCon, 2017
 - [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
 - [Generalized Full Duplex Messaging](https://www.youtube.com/watch?v=UalTAQmP3iE), **Jason Rice**, C++ Now, 2018
-- [**constexpr** ALL the Things! (Combinatorial parsers)](https://www.youtube.com/watch?v=PJwd4JLYJJY), **Ben Deane**, **Jason Turner**, CppCon, 2017
 
 **Screencasts**
 
