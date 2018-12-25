@@ -8,6 +8,7 @@ All the materials are in English if the language is not specified explicitly.
 # Contents
 
 - [Books](#books)
+
 - [Articles](#articles)
   * [Basics](#basics)
   * [Blogs](#blogs)
@@ -15,22 +16,29 @@ All the materials are in English if the language is not specified explicitly.
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
   * [Papers](#papers)
+  
+- [Talks and Screencasts](#talks-and-screencasts)
+  * [Talks](#talks)
+  * [Screencasts](#screencasts)
+  * [Cources](#cources)
+
 - [Articles (Rus)](#articles-rus)
   * [Basics (Rus)](#basics-rus)
   * [Advanced topics (Rus)](#advanced-topics-rus)
     - [Monads (Rus)](#monads-rus)
     - [Design Concepts and Approaches (Rus)](#design-concepts-and-approaches-rus)
-- [Talks and Screencasts](#talks-and-screencasts)
-  * [Talks](#talks)
-  * [Screencasts](#screencasts)
-  * [Cources](#cources)
+    
 - [Talks and Screencasts (Rus)](#talks-and-screencasts-rus)
   * [Talks (Rus)](#talks-rus)
+
 - [QA](#qa)
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
+  
 - [Libraries](#libraries)
+
 - [Showcase projects](#showcase-projects)
+
 - [C++ FP Experts](#c-fp-experts)
 
 # Books
@@ -165,7 +173,6 @@ All the materials are in English if the language is not specified explicitly.
 #### Design Concepts and Approaches (Rus)
 
 - [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
-
 
 # Talks and Screencasts (Rus)
 
