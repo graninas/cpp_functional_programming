@@ -5,7 +5,7 @@ List of materials and links about functional programming in C++.
 
 All the materials are in English if the language is not specified explicitly.
 
-## Contents
+# Contents
 
 - [Books](#books)
 - [Articles](#articles)
@@ -17,6 +17,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Papers](#papers)
 - [Talks and Screencasts](#talks-and-screencasts)
   * [Talks](#talks)
+  * [Talks (Rus)](#talks-rus)
   * [Screencasts](#screencasts)
 - [Cources](#cources)
 - [QA](#qa)
@@ -26,13 +27,13 @@ All the materials are in English if the language is not specified explicitly.
 - [Showcase projects](#showcase-projects)
 - [C++ FP Experts](#c-fp-experts)
 
-## Books
+# Books
 
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus), **Ivan Čukić**, Manning Publications, 2018
 - [Learning C++ Functional Programming](https://www.oreilly.com/library/view/learning-c-functional/9781787281974/), **Wisnu Anggoro**
 - [Functional Programming with C++](https://www.amazon.com/Functional-Programming-C-Chris-Weed-ebook/dp/B017AT4OMI), **Chris Weed**
 
-## Articles
+# Articles
 
 ### Basics
 
@@ -94,7 +95,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Functional Concepts in C++](http://www.cs.nott.ac.uk/~psznhn/TFP2006/Papers/25-RaufBergerSetzer-FunctionalConceptsInC++.pdf), **Rose H. Abdul Rauf, Ulrich Berger, Anton Setzer**
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
 
-## Talks and Screencasts
+# Talks and Screencasts
 
 **Talks**
 
@@ -135,12 +136,6 @@ All the materials are in English if the language is not specified explicitly.
   * [Intro to Functional Programming](https://www.youtube.com/watch?v=uHFUpFhWGJs), C++ Now, 2014
   * [Functional Design Explained](https://www.youtube.com/watch?v=x9mIAT-CAwA), CppCon, 2015
   * [The Mathematical Underpinnings of Promises in C++](https://www.youtube.com/watch?v=2OY0Zn3oBCE), BoostCon, 2017
-  
-- **Alexander Granin** talks (Rus)
-  * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
-  * [Functional Microscope: Lenses in C++ (Rus)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
-  * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
-  * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
 - [Practical Functional Programming in C++](https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/009-Practical-Functional-Programming-in-CPP), **Bryce Adelstein-Lelbach**, CppCon, 2014
 - [Applying functional programming in code design](https://www.youtube.com/watch?v=-ROXIG4raiA), **Michał Dominiak**, CppCon, 2015
@@ -151,16 +146,24 @@ All the materials are in English if the language is not specified explicitly.
 - [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
 - [Generalized Full Duplex Messaging](https://www.youtube.com/watch?v=UalTAQmP3iE), **Jason Rice**, C++ Now, 2018
 
+**Talks (Rus)
+
+- **Alexander Granin** talks (Rus)
+  * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
+  * [Functional Microscope: Lenses in C++ (Rus)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
+  * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
+  * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
+
 **Screencasts**
 
 - [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
 - [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
-## Cources
+# Cources
 
 - [Functional Programming using C++](https://www.youtube.com/watch?v=jD8Tu1tqvZo), **Tobias Hermann**, 2017
 
-## QA
+# QA
 
 #### StackOverflow Questions
 
@@ -174,7 +177,7 @@ All the materials are in English if the language is not specified explicitly.
 - [Is C++ is a functional programming language or not?](https://www.quora.com/Is-C++-is-a-functional-programming-language-or-not)
 - [Can C++ be used for functional programming?](https://www.quora.com/Can-C++-be-used-for-functional-programming)
 
-## Libraries
+# Libraries
 
 | Library                                                     | Description                                                                      | Author                    |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
@@ -193,7 +196,7 @@ All the materials are in English if the language is not specified explicitly.
 |                                                             |                                                                                  |                           |
 
  
-## Showcase Projects
+# Showcase Projects
 
 | Project                                                            | Description                                                                                                                                          | Author                    |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -205,7 +208,7 @@ All the materials are in English if the language is not specified explicitly.
 |                                                                    |                                                                                                                                                      |                           |
 |                                                                    |                                                                                                                                                      |                           | 
 
-## C++ FP Experts
+# C++ FP Experts
 
 The list of authors of the materials presented here, listed alphabetically. (Some authors can be missing by occasion).
 
