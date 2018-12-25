@@ -3,7 +3,8 @@ Functional Programming in C++
 
 List of materials and links about functional programming in C++.
 
-## [English Materials](#english-materials)
+[**English Materials**](#english-materials)
+
 - [Books](#books)
 - [Articles](#articles)
   * [Basics](#basics)
@@ -21,6 +22,7 @@ List of materials and links about functional programming in C++.
   * [Quora questions](#quora-questions)
 
 [Russian Materials](#russian-materials)
+
 - [Articles (Rus)](#articles-rus)
   * [Basics (Rus)](#basics-rus)
   * [Advanced topics (Rus)](#advanced-topics-rus)
@@ -29,11 +31,13 @@ List of materials and links about functional programming in C++.
 - [Talks and Screencasts (Rus)](#talks-and-screencasts-rus)
   * [Talks (Rus)](#talks-rus)
 
-## [Projects](#projects)
+[Projects](#projects)
+
 - [Libraries](#libraries)
 - [Showcase projects](#showcase-projects)
 
-## [Misc](#misc)
+[Misc](#misc)
+
 - [C++ FP Experts](#c-fp-experts)
 
 ---
