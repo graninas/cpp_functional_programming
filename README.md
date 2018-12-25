@@ -20,7 +20,7 @@ List of materials and links about functional programming in C++.
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
 
-## [Russian Materials](#russian-materials)
+[Russian Materials](#russian-materials)
 - [Articles (Rus)](#articles-rus)
   * [Basics (Rus)](#basics-rus)
   * [Advanced topics (Rus)](#advanced-topics-rus)
