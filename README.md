@@ -191,10 +191,14 @@ List of materials and links about functional programming in C++.
 
 #### Basics (Rus)
 
-- [Functional programming in c++ by example](https://habr.com/post/324518/), **nikitablack**, 2017
-  * [Functional programming in c++ by example (Eng)](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
+- [Функциональное программирование и c++ на практике](https://habr.com/post/324518/), **Никита Черный aka nikitablack**, 2017
+  * [Functional programming in c++ by example (Eng)](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **Никита Черный aka nikitablack**, 2017
 
 #### Monads (Rus)
+
+- [Монады и do-нотация в C++ (Monads and do-notation in C++)](https://habr.com/post/205026/), **stepic777**, 2013
+- [Использование монад в С++. Часть 1: монада списка (Using monads in C++. Part 1: The List monad)](https://habr.com/company/infopulse/blog/260809/), **Владимир aka tangro**, 2015
+- [Монада Maybe на языке C++ (The Maybe monad in C++)](https://nesteruk.wordpress.com/2015/12/24/maybe-monad-cpp/), **Дмитpий Hecтepук**, 2015
 
 #### Design Concepts and Approaches (Rus)
 
@@ -203,10 +207,10 @@ List of materials and links about functional programming in C++.
 #### Talks (Rus)
 
 - **Alexander Granin** talks
-  * [Functional and Declarative Design in C++](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
-  * [Functional Microscope: Lenses in C++](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
-  * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
-  * [Pure Functional Approach to Software Transactional Memory in C++](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
+  * [Функциональный и декларативный дизайн на С++ (Functional and Declarative Design in C++)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
+  * [Функциональный микроскоп: линзы в С++ (Functional Microscope: Lenses in C++)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
+  * [Функциональная "Игра Жизнь": параллельные клеточные автоматы и комонады в С++ (Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
+  * [Функциональный подход к Software Transactional Memory в С++ (Pure Functional Approach to Software Transactional Memory in C++)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
 ---
 
@@ -285,4 +289,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Tobias Hermann**
 - **Toby Allsopp**
 - **Wisnu Anggoro**
-- **nikitablack**
+- **Никита Черный aka nikitablack**
+- **stepic777**
+- **Владимир aka tangro**
+- **Дмитpий Hecтepук**
