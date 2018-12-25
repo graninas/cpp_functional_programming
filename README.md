@@ -5,10 +5,9 @@ List of materials and links about functional programming in C++.
 
 All the materials are in English if the language is not specified explicitly.
 
+--
 # Contents
-
 - [Books](#books)
-
 - [Articles](#articles)
   * [Basics](#basics)
   * [Blogs](#blogs)
@@ -16,29 +15,35 @@ All the materials are in English if the language is not specified explicitly.
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
   * [Papers](#papers)
-  
-- [Talks and Screencasts](#talks-and-screencasts)
-  * [Talks](#talks)
-  * [Screencasts](#screencasts)
-  * [Cources](#cources)
-
-- [Articles (Rus)](#articles-rus)
-  * [Basics (Rus)](#basics-rus)
-  * [Advanced topics (Rus)](#advanced-topics-rus)
-    - [Monads (Rus)](#monads-rus)
-    - [Design Concepts and Approaches (Rus)](#design-concepts-and-approaches-rus)
-    
-- [Talks and Screencasts (Rus)](#talks-and-screencasts-rus)
-  * [Talks (Rus)](#talks-rus)
 
 - [QA](#qa)
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
   
-- [Libraries](#libraries)
+--
 
+# Cotents (Rus)
+- [Talks and Screencasts](#talks-and-screencasts)
+  * [Talks](#talks)
+  * [Screencasts](#screencasts)
+  * [Cources](#cources)
+- [Articles (Rus)](#articles-rus)
+  * [Basics (Rus)](#basics-rus)
+  * [Advanced topics (Rus)](#advanced-topics-rus)
+    - [Monads (Rus)](#monads-rus)
+    - [Design Concepts and Approaches (Rus)](#design-concepts-and-approaches-rus)
+- [Talks and Screencasts (Rus)](#talks-and-screencasts-rus)
+  * [Talks (Rus)](#talks-rus)
+
+--
+
+# Projects
+- [Libraries](#libraries)
 - [Showcase projects](#showcase-projects)
 
+--
+
+# Misc
 - [C++ FP Experts](#c-fp-experts)
 
 # Books
