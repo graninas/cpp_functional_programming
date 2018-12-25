@@ -8,9 +8,8 @@ List of materials and links about functional programming in C++.
 - [Books](#books)
 - [Articles](#articles)
   * [Basics](#basics)
-  * [Advanced topics](#advanced-topics)
-    - [Monads](#monads)
-    - [Design Concepts and Approaches](#design-concepts-and-approaches)
+  * [Monads](#monads)
+  * [Design Concepts and Approaches](#design-concepts-and-approaches)
 - [Papers](#papers)
 - [Blogs](#blogs)
 - [Talks and Screencasts](#talks-and-screencasts)
@@ -21,22 +20,21 @@ List of materials and links about functional programming in C++.
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
 
-[Russian Materials](#russian-materials)
+[**Russian Materials**](#russian-materials)
 
 - [Articles (Rus)](#articles-rus)
   * [Basics (Rus)](#basics-rus)
-  * [Advanced topics (Rus)](#advanced-topics-rus)
-    - [Monads (Rus)](#monads-rus)
-    - [Design Concepts and Approaches (Rus)](#design-concepts-and-approaches-rus)
+  * [Monads (Rus)](#monads-rus)
+  * [Design Concepts and Approaches (Rus)](#design-concepts-and-approaches-rus)
 - [Talks and Screencasts (Rus)](#talks-and-screencasts-rus)
   * [Talks (Rus)](#talks-rus)
 
-[Projects](#projects)
+[**Projects**](#projects)
 
 - [Libraries](#libraries)
 - [Showcase projects](#showcase-projects)
 
-[Misc](#misc)
+[**Misc**](#misc)
 
 - [C++ FP Experts](#c-fp-experts)
 
@@ -72,9 +70,7 @@ List of materials and links about functional programming in C++.
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
 - [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 
-### Advanced topics
-
-#### Monads
+### Monads
 
 - [A word on Haskell Monads and C++](http://newartisans.com/2010/07/a-word-on-haskell-monads-and-c/), **John Wiegley**, 2010
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
@@ -198,11 +194,9 @@ List of materials and links about functional programming in C++.
 - [Functional programming in c++ by example](https://habr.com/post/324518/), **nikitablack**, 2017
   * [Functional programming in c++ by example (Eng)](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **nikitablack**, 2017
 
-### Advanced Topics (Rus)
+### Monads (Rus)
 
-#### Monads (Rus)
-
-#### Design Concepts and Approaches (Rus)
+### Design Concepts and Approaches (Rus)
 
 # Talks and Screencasts (Rus)
 
