@@ -241,6 +241,5 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Sumant Tambe**
 - **Tobias Hermann**
 - **Toby Allsopp**
-- **Toby Allsopp**
 - **Wisnu Anggoro**
 - **nikitablack**
