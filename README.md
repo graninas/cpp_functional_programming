@@ -174,35 +174,23 @@ All the materials are in English if the language is not specified explicitly.
 
 ## Libraries
 
-- [Boost.Hana](https://boostorg.github.io/hana)
+| Library                                                     | Description                                                                      | Author                    |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
+| [Boost.Hana](https://boostorg.github.io/hana)               | Boost.Hana is a library with concepts borrowed from category theory              | ?                         |
+| [optional](https://github.com/TartanLlama/optional)         | C++11/14/17 std::optional with functional-style extensions and reference support | Simon Brand               |
+| [expected](https://github.com/TartanLlama/expected)         | C++11/14/17 std::expected with functional-style extensions                       | Simon Brand               |
+| [FTL](https://github.com/beark/ftl)                         | C++ template library for fans of functional programming                          | beark                     |
+| [LIBF++](https://github.com/GJDuck/libf)                    | C++ as a Pure Functional Programming Language                                    | GJDuck                    |
+| [Immer](https://github.com/arximboldi/immer)                | Postmodern immutable and persistent data structures for C++                      | Juan Pedro Bolívar Puente |
+| [Lager](https://github.com/arximboldi/lager)                | Library for functional interactive C++ programs // Redux for C++                 | Juan Pedro Bolívar Puente |
+| [cpp_stm_free](https://github.com/graninas/cpp_stm_free)    | Composable monadic STM for C++ on Free monads                                    | Alexander Granin          |
+| [Cat](https://github.com/awgn/cat)                          | Cat: C++14/17 functional library                                                 | Nicola Bonelli            |
+| [neither](https://github.com/loopperfect/neither)           | A functional implementation of Either in C++14.                                  | LoopPerfect               |
+| [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | Functional Programming Library for C++. Write concise and readable C++ code.     | Tobias Hermann            |
+|                                                             |                                                                                  |                           |
+|                                                             |                                                                                  |                           |
 
-  Boost.Hana is a library with concepts borrowed from category theory
-  
-- [cpp_stm_free](https://github.com/graninas/cpp_stm_free), **Alexander Granin**
 
-  Composable monadic STM for C++ on Free monads
-  
-- [FTL](https://github.com/beark/ftl)
-  
-  The Functional Template Library
-   
-- [LIBF++](https://github.com/GJDuck/libf)
-
-  C++ as a Pure Functional Language
-  
-- [neither](https://github.com/loopperfect/neither)
-- [Cat](https://github.com/awgn/cat)
-- [Immer](https://github.com/arximboldi/immer), **Juan Pedro Bolívar Puente**
-
-  Postmodern immutable and persistent data structures for C++
-
-- [Lager](https://github.com/arximboldi/lager), **Juan Pedro Bolívar Puente**
-
-  Library for functional interactive C++ programs // Redux for C++
-  
-- [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)
-
-  Functional Programming Library for C++. Write concise and readable C++ code. 
  
 ## Showcase Projects
 
@@ -252,6 +240,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Brian McNamara**
 - **Ben Deane**
 - **Jason Turner**
+- **Nicola Bonelli**
 - **nikitablack**
 - **Abel Sinkovics**
 - **Wisnu Anggoro**
