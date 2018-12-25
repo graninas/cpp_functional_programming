@@ -15,11 +15,17 @@ All the materials are in English if the language is not specified explicitly.
     - [Monads](#monads)
     - [Design Concepts and Approaches](#design-concepts-and-approaches)
   * [Papers](#papers)
+- [Articles (Rus)](#articles-rus)
+  * [Basics (Rus)](#basics-rus)
+  * [Advanced topics (Rus)](#advanced-topics-rus)
+    - [Monads (Rus)](#monads-rus)
+    - [Design Concepts and Approaches (Rus)](#design-concepts-and-approaches-rus)
 - [Talks and Screencasts](#talks-and-screencasts)
   * [Talks](#talks)
-  * [Talks (Rus)](#talks-rus)
   * [Screencasts](#screencasts)
-- [Cources](#cources)
+  * [Cources](#cources)
+- [Talks and Screencasts (Rus)](#talks-and-screencasts-rus)
+  * [Talks (Rus)](#talks-rus)
 - [QA](#qa)
   * [StackOverflow questions](#stackoverflow-questions) 
   * [Quora questions](#quora-questions)
@@ -77,17 +83,13 @@ All the materials are in English if the language is not specified explicitly.
 - [A word on Haskell Monads and C++](http://newartisans.com/2010/07/a-word-on-haskell-monads-and-c/), **John Wiegley**, 2010
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
 - [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
+- [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
 - [Monads in C++](http://www.modernescpp.com/index.php/monads-in-c), **Rainer Grimm**, 2017
 - [The Vector Monad in C++, Without the Ugly Stuff](http://www.fluentcpp.com/2017/07/14/the-vector-monad-in-c-without-the-ugly-stuff), **Jonathan Boccara**, 2017
 - [The Vector Monad in C++, Really Without the Ugly Stuff](https://medium.com/@barryrevzin/the-vector-monad-in-c-really-without-the-ugly-stuff-3112137db5d7), **Barry Revzin**, 2017
 - [Multiple error handling with the optional monad in C++](https://www.fluentcpp.com/2017/07/04/multiple-error-handling-with-the-optional-monad-in-c/), **Jonathan Boccara**, 2017
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
 - [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html), **ShellBlade**
-
-#### Design Concetps and Approaches
-
-- [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
-- [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
 ### Papers
 - [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf), **Juan Pedro Bolívar Puente**
@@ -97,7 +99,7 @@ All the materials are in English if the language is not specified explicitly.
 
 # Talks and Screencasts
 
-**Talks**
+### Talks
 
 - **Bartosz Milewski** talks
   * [Functional Patterns in C++, 1. Functors](https://www.youtube.com/watch?v=ph7qt0pkPkc), 2012
@@ -105,6 +107,7 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional Patterns in C++, 3. Async API, Monoid, Monad](https://www.youtube.com/watch?v=ozN6XxsAF84), 2012
   * [Compile-Time/Run-Time Functional Programming in C++](https://www.youtube.com/watch?v=WtHWFoKf8o0), **Bartosz Milewski**, **Eric Niebler**, BoostCon, 2012
   * [Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)](https://www.youtube.com/watch?v=GjhsSzRtTGY), BoostCon, 2013
+  * [Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)](https://www.youtube.com/watch?v=_uJMKxmoo68), BoostCon, 2013
   * [Re-discovering monads in C++](https://youtu.be/tc8w8MbJQNs?t=13003), C++ User Group Novosibirsk, 2014
   * [Functional techniques in C++](https://www.youtube.com/watch?v=olZ9SXeUmsU), CDays14, 2014
   * [Categories for the Working C++ Programmer](https://www.youtube.com/watch?v=eCUfzvz7Z20), C++ Russia, 2015
@@ -146,7 +149,27 @@ All the materials are in English if the language is not specified explicitly.
 - [What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions](https://www.youtube.com/watch?v=GC4cp4U2f2E), **Simon Brand**, **Phil Nash**, CppCon, 2018
 - [Generalized Full Duplex Messaging](https://www.youtube.com/watch?v=UalTAQmP3iE), **Jason Rice**, C++ Now, 2018
 
-**Talks (Rus)
+### Screencasts
+
+- [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
+- [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
+
+# Articles (Rus)
+
+### Basics (Rus)
+
+### Advanced Topics (Rus)
+
+#### Monads (Rus)
+
+#### Design Concepts and Approaches (Rus)
+
+- [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
+
+
+# Talks and Screencasts (Rus)
+
+### Talks (Rus)
 
 - **Alexander Granin** talks (Rus)
   * [Functional and Declarative Design in C++ (Rus)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
@@ -154,10 +177,6 @@ All the materials are in English if the language is not specified explicitly.
   * [Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++ (Rus)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Pure Functional Approach to Software Transactional Memory in C++ (Rus)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
 
-**Screencasts**
-
-- [Learning Modern C++ Functional Programming: Understand Essential Part](https://www.youtube.com/watch?v=W1IMyrqeqM4), Packt Video, 2018
-- [Functional Programming in C++ Using Lambda Expressions](https://www.youtube.com/watch?v=58BrFvjNhWY), CodesBay, 2018
 
 # Cources
 
