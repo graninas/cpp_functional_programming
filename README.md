@@ -134,6 +134,7 @@ List of materials and links about functional programming in C++.
   * [Introducing the Ranges TS](https://www.youtube.com/watch?v=LNXkPh3Z418), code::dive, 2017
   
 - **Ivan Čukić** talks
+  * [Functional reactive programming in C++](https://www.youtube.com/watch?v=a2MmURgc6cU), Meeting C++, 2016
   * [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), Meeting C++, 2017
   * [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), Curry On!, 2018
 
