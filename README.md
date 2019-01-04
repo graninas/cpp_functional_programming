@@ -74,6 +74,7 @@ List of materials and links about functional programming in C++.
 
 - [A word on Haskell Monads and C++](http://newartisans.com/2010/07/a-word-on-haskell-monads-and-c/), **John Wiegley**, 2010
 - [Monads in C++](https://bartoszmilewski.com/2011/07/11/monads-in-c/), **Bartosz Milewski**, 2011
+- [Monadic parsing in C++](http://yapb-soc.blogspot.com/2012/11/monadic-parsing-in-c.html), **Scott Prager**, 2012
 - [An Attempt to Explain Monads in C++](https://izzys.casa/posts/an-attempt-to-explain-monads-in-cxx.html), **Isabella Muerte**, 2014
 - [Optional Types and Lightweight Continuation Passing in C++](https://izzys.casa/posts/optional-types-and-lightweight-continuation-passing-in-cxx.html), **Isabella Muerte**, 2014
 - [Monads in C++](http://www.modernescpp.com/index.php/monads-in-c), **Rainer Grimm**, 2017
@@ -237,15 +238,16 @@ List of materials and links about functional programming in C++.
  
 ### Showcase Projects
 
-| Project                                                            | Description                                                                                                                                          | Author                    |
-|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [Ewig](https://github.com/arximboldi/ewig)                         | A mini-emacs built using C++ in a functional way, using the Redux architecture. Supports efficiently editing huge file and concurrent loading/saving | Juan Pedro Bolívar Puente |
-| [Amber](https://github.com/graninas/Amber)                         | The 'Amber' game project demonstranting functional and declarative design in C++.                                                                    | Alexander Granin          |
-| [cpp_lenses](https://github.com/graninas/cpp_lenses)               | Functional lenses demo in C++                                                                                                                        | Alexander Granin          |
-| [CMLife](https://github.com/graninas/CMLife)                       | Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)                                | Alexander Granin          |
-| [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad) | Using coroutines for monadic composition                                                                                                             | Toby Allsopp              |
-|                                                                    |                                                                                                                                                      |                           |
-|                                                                    |                                                                                                                                                      |                           | 
+| Project                                                                   | Description                                                                                                                                          | Author                    |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| [Ewig](https://github.com/arximboldi/ewig)                                | A mini-emacs built using C++ in a functional way, using the Redux architecture. Supports efficiently editing huge file and concurrent loading/saving | Juan Pedro Bolívar Puente |
+| [Amber](https://github.com/graninas/Amber)                                | The 'Amber' game project demonstranting functional and declarative design in C++.                                                                    | Alexander Granin          |
+| [cpp_lenses](https://github.com/graninas/cpp_lenses)                      | Functional lenses demo in C++                                                                                                                        | Alexander Granin          |
+| [CMLife](https://github.com/graninas/CMLife)                              | Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)                                | Alexander Granin          |
+| [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad)        | Using coroutines for monadic composition                                                                                                             | Toby Allsopp              |
+| [Monadic parsing in C++](https://gist.github.com/splinterofchaos/4112114) | Monadic parsers                                                                                                                                      | Scott Prager              |
+|                                                                           |                                                                                                                                                      |                           | 
+
 
 ---
 
@@ -283,6 +285,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Paul Fultz**
 - **Phil Nash**
 - **Rainer Grimm**
+- **Scott Prager**
 - **Simon Brand**
 - **Stuart Golodetz**
 - **Sumant Tambe**
