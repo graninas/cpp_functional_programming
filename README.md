@@ -254,6 +254,9 @@ List of materials and links about functional programming in C++.
 | [Monadic parsing in C++](https://gist.github.com/splinterofchaos/4112114) | Monadic parsers                                                                                                                                      | Scott Prager              |
 |                                                                           |                                                                                                                                                      |                           | 
 
+https://github.com/rsms/immutable-cpp
+https://github.com/BartoszMilewski/Okasaki
+
 
 ---
 
