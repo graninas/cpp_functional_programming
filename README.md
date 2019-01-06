@@ -58,6 +58,8 @@ List of materials and links about functional programming in C++.
 - [In-depth: Functional programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php), **John Carmack**, 2012
 - [Efficient Pure Functional Programming in C++ Using Move Semantics](https://blog.knatten.org/2012/11/02/efficient-pure-functional-programming-in-c-using-move-semantics/), **Anders Schau Knatten**, 2012
 - [The connection between C++ template metaprogramming and functional programming](http://www.tnkcs.inf.elte.hu/vedes/sinkovics_abel_ertekezes.pdf), **Abel Sinkovics**, 2013
+- [Functional Data Structures in C++: Lists](https://bartoszmilewski.com/2013/11/13/functional-data-structures-in-c-lists/), **Bartosz Milewski**, 2013
+- [Functional Data Structures and Concurrency in C++](https://bartoszmilewski.com/2013/12/10/functional-data-structures-and-concurrency-in-c/), **Bartosz Milewski**, 2013
 - [Study Notes: Functional Programming with C++](https://yongweiwu.wordpress.com/2014/12/07/study-notes-functional-programming-with-cplusplus/), **Yongwei**, 2014
 - [Functional programming in C++](http://blog.madhukaraphatak.com/functional-programming-in-c++/), **Madhukar**, 2014
 - [Make your functions functional](https://www.fluentcpp.com/2016/11/22/make-your-functions-functional/), **Jonathan Boccara**, 2016
@@ -181,6 +183,7 @@ List of materials and links about functional programming in C++.
 - [What can C++ offer as far as functional programming?](https://stackoverflow.com/questions/21471836/what-can-c-offer-as-far-as-functional-programming)
 - [Monad interface in C++](https://stackoverflow.com/questions/39725190/monad-interface-in-c)
 - [C++ Design: Functional Programming vs OOP](https://softwareengineering.stackexchange.com/questions/180522/c-design-functional-programming-vs-oop)
+- [Persistent data structures in c++](https://stackoverflow.com/questions/4394399/persistent-data-structures-in-c)
 
 #### Quora Questions
 
