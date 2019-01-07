@@ -200,6 +200,7 @@ List of materials and links about functional programming in C++.
 
 - [Функциональное программирование и c++ на практике](https://habr.com/post/324518/), **Никита Черный aka nikitablack**, 2017
   * [Functional programming in c++ by example (Eng)](https://nikitablack.github.io/2017/03/23/Functional-programming-in-c-by-example.html), **Никита Черный aka nikitablack**, 2017
+- [Каррирование и частичное применение на C++14 (Currying and partial application in C++14)](https://habr.com/post/340722/), **Матвей Черевко**, 2017
 
 #### Monads (Rus)
 
@@ -308,3 +309,4 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **stepic777**
 - **Владимир aka tangro**
 - **Дмитpий Hecтepук**
+- **Матвей Черевко**
