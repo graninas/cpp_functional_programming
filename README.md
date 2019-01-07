@@ -255,7 +255,9 @@ List of materials and links about functional programming in C++.
 |                                                                           |                                                                                                                                                      |                           | 
 
 https://github.com/rsms/immutable-cpp
+
 https://github.com/BartoszMilewski/Okasaki
+
 https://github.com/BlackMATov/fun.hpp
 
 
