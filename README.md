@@ -239,8 +239,9 @@ List of materials and links about functional programming in C++.
 | [Cat](https://github.com/awgn/cat)                          | Cat: C++14/17 functional library                                                 | Nicola Bonelli            |
 | [neither](https://github.com/loopperfect/neither)           | A functional implementation of Either in C++14.                                  | LoopPerfect               |
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | Functional Programming Library for C++. Write concise and readable C++ code.     | Tobias Hermann            |
-|                                                             |                                                                                  |                           |
-|                                                             |                                                                                  |                           |
+| [Immutable++](https://github.com/rsms/immutable-cpp         | Persistent immutable data structures providing practically O(1) for appends, updates and lookups based on work by Rich Hickey and by consequence Phil Bagwell. | Rasmus Andersson |
+| [Okasaki](https://github.com/BartoszMilewski/Okasaki)       | Functional data structures in C++                                                | Bartosz Milewski          |
+
 
  
 ### Showcase Projects
@@ -253,13 +254,8 @@ List of materials and links about functional programming in C++.
 | [CMLife](https://github.com/graninas/CMLife)                              | Functional Game of Life in C++. Based on functional declarative design and functional idioms (comonads, zippers etc.)                                | Alexander Granin          |
 | [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad)        | Using coroutines for monadic composition                                                                                                             | Toby Allsopp              |
 | [Monadic parsing in C++](https://gist.github.com/splinterofchaos/4112114) | Monadic parsers                                                                                                                                      | Scott Prager              |
-|                                                                           |                                                                                                                                                      |                           | 
-
-https://github.com/rsms/immutable-cpp
-
-https://github.com/BartoszMilewski/Okasaki
-
-https://github.com/BlackMATov/fun.hpp
+| [monad_do](https://github.com/evgeny-panasyuk/monad_do)                   | Emulation of DO syntax sugar for monads in C++                                                                                                       | Evgeny Panasyuk           |
+| [fun.hpp](https://github.com/BlackMATov/fun.hpp)                          | Functional programming in C++                                                                                                                        | Matvey Cherevko           |
 
 
 ---
@@ -298,6 +294,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Paul Fultz**
 - **Phil Nash**
 - **Rainer Grimm**
+- **Rasmus Andersson**
 - **Scott Prager**
 - **Simon Brand**
 - **Stuart Golodetz**
@@ -309,4 +306,5 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **stepic777**
 - **Владимир aka tangro**
 - **Дмитpий Hecтepук**
-- **Матвей Черевко**
+- **Матвей Черевко aka BlackMATov**
+- **Evgeny Panasyuk**
