@@ -239,7 +239,7 @@ List of materials and links about functional programming in C++.
 | [Cat](https://github.com/awgn/cat)                          | Cat: C++14/17 functional library                                                 | Nicola Bonelli            |
 | [neither](https://github.com/loopperfect/neither)           | A functional implementation of Either in C++14.                                  | LoopPerfect               |
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | Functional Programming Library for C++. Write concise and readable C++ code.     | Tobias Hermann            |
-| [Immutable++](https://github.com/rsms/immutable-cpp         | Persistent immutable data structures providing practically O(1) for appends, updates and lookups based on work by Rich Hickey and by consequence Phil Bagwell. | Rasmus Andersson |
+| [Immutable++](https://github.com/rsms/immutable-cpp)        | Persistent immutable data structures providing practically O(1) for appends, updates and lookups based on work by Rich Hickey and by consequence Phil Bagwell. | Rasmus Andersson |
 | [Okasaki](https://github.com/BartoszMilewski/Okasaki)       | Functional data structures in C++                                                | Bartosz Milewski          |
 
 
