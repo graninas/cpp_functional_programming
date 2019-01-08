@@ -255,7 +255,7 @@ List of materials and links about functional programming in C++.
 | [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad)        | Using coroutines for monadic composition                                                                                                             | Toby Allsopp              |
 | [Monadic parsing in C++](https://gist.github.com/splinterofchaos/4112114) | Monadic parsers                                                                                                                                      | Scott Prager              |
 | [monad_do](https://github.com/evgeny-panasyuk/monad_do)                   | Emulation of DO syntax sugar for monads in C++                                                                                                       | Evgeny Panasyuk           |
-| [fun.hpp](https://github.com/BlackMATov/fun.hpp)                          | Functional programming in C++                                                                                                                        | Matvey Cherevko           |
+| [kari.hpp](https://github.com/BlackMATov/kari.hpp)                          | Experimental library for currying in C++14                                                                                                                        | Matvey Cherevko           |
 
 
 ---
