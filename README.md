@@ -92,7 +92,7 @@ List of materials and links about functional programming in C++.
 
 ## Papers
 - [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf), **Juan Pedro Bolívar Puente**
-- [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), 2018
+- [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), **Vicente J. Botet Escribá**, 2018
 - [Functional Concepts in C++](http://www.cs.nott.ac.uk/~psznhn/TFP2006/Papers/25-RaufBergerSetzer-FunctionalConceptsInC++.pdf), **Rose H. Abdul Rauf, Ulrich Berger, Anton Setzer**
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
 
@@ -279,6 +279,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Chris Weed**
 - **David Sankel**
 - **Eric Niebler**
+- **Evgeny Panasyuk**
 - **Isabella Muerte**
 - **Ivan Čukić**
 - **Jason Rice**
@@ -301,10 +302,11 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Sumant Tambe**
 - **Tobias Hermann**
 - **Toby Allsopp**
+- **Vicente J. Botet Escribá**
 - **Wisnu Anggoro**
 - **Никита Черный aka nikitablack**
 - **stepic777**
 - **Владимир aka tangro**
 - **Дмитpий Hecтepук**
 - **Матвей Черевко aka BlackMATov**
-- **Evgeny Panasyuk**
+
