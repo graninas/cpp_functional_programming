@@ -71,6 +71,7 @@ List of materials and links about functional programming in C++.
 - [Lambdas: The Functional Programming Companion of Modern C++](https://medium.com/@DakshHub/lambdas-the-companion-of-modern-c-b7dfd43b5abb), **Daksh**, 2018
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
 - [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
+- [Lambda-style anonymous functions for C++ in less than 500 lines of code](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/), **Matthew Might**, ?
 
 #### Monads
 
@@ -256,6 +257,7 @@ List of materials and links about functional programming in C++.
 | [Monadic parsing in C++](https://gist.github.com/splinterofchaos/4112114) | Monadic parsers                                                                                                                                      | Scott Prager              |
 | [monad_do](https://github.com/evgeny-panasyuk/monad_do)                   | Emulation of DO syntax sugar for monads in C++                                                                                                       | Evgeny Panasyuk           |
 | [kari.hpp](https://github.com/BlackMATov/kari.hpp)                          | Experimental library for currying in C++14                                                                                                                        | Matvey Cherevko           |
+| [Lambda.cpp](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/Lambda.cpp) | Lambdas PoC implementation | Matthew Might |
 
 
 ---
@@ -290,6 +292,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Juan Pedro Bolívar Puente**
 - **Kevlin Henney**
 - **Kiryll Shynharow**
+- **Matthew Might**
 - **Michał Dominiak**
 - **Nicola Bonelli**
 - **Paul Fultz**
