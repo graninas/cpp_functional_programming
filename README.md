@@ -98,6 +98,7 @@ List of materials and links about functional programming in C++.
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), **Vicente J. Botet Escribá**, 2018
 - [Functional Concepts in C++](http://www.cs.nott.ac.uk/~psznhn/TFP2006/Papers/25-RaufBergerSetzer-FunctionalConceptsInC++.pdf), **Rose H. Abdul Rauf, Ulrich Berger, Anton Setzer**
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
+- [Abbreviated Lambdas for Fun and Profit](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0573r1.html), 2017
 
 ## Blogs
 
