@@ -92,6 +92,7 @@ List of materials and links about functional programming in C++.
 - [Software Transactional Memory in C++: pure functional approach (Tutorial)](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525), **Alexander Granin**, 2018
 
 ## Papers
+- [Lambda expressions and closures for C++](http://www.stroustrup.com/N1968-lambda-expressions.pdf), **Jeremiah Willcock**, **Jaakko Järvi**, **John Freeman**, **Bjarne Stroustrup**, 2006
 - [C++ lambda expressions and closures](https://core.ac.uk/download/pdf/82307163.pdf), **Jaakko Järvi**, **John Freeman**, 2008
 - [Functional Style in C++: Closures, Late Binding, and Lambda Abstractions](http://okmij.org/ftp/cpp-digest/Functional-Cpp.html), ?, 1999
 - [A proposal to add lambda functions to the C++ standard](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n1958.pdf), **Valentin Samko**, 2006
@@ -310,10 +311,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Tobias Hermann**
 - **Toby Allsopp**
 - **Vicente J. Botet Escribá**
-- **Valentin Samko**
 - **Wisnu Anggoro**
-- **Jaakko Järvi**
-- **John Freeman**
 - **Никита Черный aka nikitablack**
 - **stepic777**
 - **Владимир aka tangro**
