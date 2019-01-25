@@ -264,6 +264,7 @@ List of materials and links about functional programming in C++.
 | [monad_do](https://github.com/evgeny-panasyuk/monad_do)                   | Emulation of DO syntax sugar for monads in C++                                                                                                       | Evgeny Panasyuk           |
 | [kari.hpp](https://github.com/BlackMATov/kari.hpp)                          | Experimental library for currying in C++14                                                                                                                        | Matvey Cherevko           |
 | [Lambda.cpp](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/Lambda.cpp) | Lambdas PoC implementation | Matthew Might |
+| [Knuth's arrow notation](https://gist.github.com/graninas/358f9c7b80944b7e6a3fe56c6fe09a57) | Implemented in two variants: constexpr functions and templates | Alexander Granin |
 
 
 ---
