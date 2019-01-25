@@ -97,6 +97,7 @@ List of materials and links about functional programming in C++.
 - [Functional Style in C++: Closures, Late Binding, and Lambda Abstractions](http://okmij.org/ftp/cpp-digest/Functional-Cpp.html), ?, 1999
 - [A proposal to add lambda functions to the C++ standard](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n1958.pdf), **Valentin Samko**, 2006
 - [Persistence for the Masses: RRB-Vectors in a Systems Language](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf), **Juan Pedro Bolívar Puente**
+- [Constexpr Lambda](https://isocpp.org/files/papers/N4487.pdf), 2015
 - [C++ Monadic interface (Proposal P0650R2)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0650r2.pdf), **Vicente J. Botet Escribá**, 2018
 - [Functional Concepts in C++](http://www.cs.nott.ac.uk/~psznhn/TFP2006/Papers/25-RaufBergerSetzer-FunctionalConceptsInC++.pdf), **Rose H. Abdul Rauf, Ulrich Berger, Anton Setzer**
 - [Functional Programming in C++](https://people.cs.umass.edu/~yannis/fc++/fc++.main.pdf), **Brian McNamara**, **Yannis Smaragdakis**
