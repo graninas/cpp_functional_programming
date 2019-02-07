@@ -146,7 +146,7 @@ List of materials and links about functional programming in C++.
 - **Ivan Čukić** talks
   * [Functional reactive programming in C++](https://www.youtube.com/watch?v=a2MmURgc6cU), Meeting C++, 2016
   * [Functional Programming: data](https://www.youtube.com/watch?v=iYipZw4tS-A), Meeting C++, 2017
-  * [Atom Heart Monad (Keynote)](https://www.youtube.com/watch?v=udifvhJ-3B0), C++ Siberia, 2017
+  * [Atom Heart Monad: FRP in C++ (Keynote)](https://www.youtube.com/watch?v=udifvhJ-3B0), C++ Siberia, 2017
   * [Atom Heart Monad: FRP in C++](https://www.youtube.com/watch?v=_Ji1HyZxXvo), Curry On!, 2018
 
 - **Juan Pedro Bolívar Puente** talks
