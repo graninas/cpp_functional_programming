@@ -152,6 +152,7 @@ List of materials and links about functional programming in C++.
 - **Juan Pedro Bolívar Puente** talks
   * [Transducers: from Clojure to C++](https://www.youtube.com/watch?v=vohGJjGxtJQ), CppCon, 2015
   * [Postmodern immutable data structures](https://www.youtube.com/watch?v=sPhpelUfu8Q), CppCon, 2017
+  * [Postmodern immutable data structures](https://www.youtube.com/watch?v=ZsryQp0UAC8), C++Now, 2017
   * [Most valuable values](https://www.youtube.com/watch?v=_oBx_NbLghY), CppCon, 2018
 
 - **Phil Nash** talks
