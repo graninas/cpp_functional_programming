@@ -224,14 +224,14 @@ List of materials and links about functional programming in C++.
 
 #### Talks (Rus)
 
-- [Эволюция метапрограммирования: как правильно работать со списками типов](https://youtu.be/dpq3o6i1Cz8?t=4730), **Олег Фатхиев**, C++ Siberia 2019
+- [Эволюция метапрограммирования: как правильно работать со списками типов](https://www.youtube.com/watch?v=IF51Gsu3Cec&list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT&index=8), **Олег Фатхиев**, C++ Siberia 2019
 
 - **Alexander Granin** talks
   * [Функциональный и декларативный дизайн на С++ (Functional and Declarative Design in C++)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
   * [Функциональный микроскоп: линзы в С++ (Functional Microscope: Lenses in C++)](https://www.youtube.com/watch?v=7vyNRD1TRYs), C++ Siberia, 2015
   * [Функциональная "Игра Жизнь": параллельные клеточные автоматы и комонады в С++ (Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Функциональный подход к Software Transactional Memory в С++ (Pure Functional Approach to Software Transactional Memory in C++)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
-  * [Настоящее и будущее функционального программирования на C++ (The Present and The Future of Functional Programming in C++)](https://youtu.be/iqn0Mop_4Qs?t=1073), Keynote, C++ Siberia 2019
+  * [Настоящее и будущее функционального программирования на C++ (The Present and The Future of Functional Programming in C++)](https://www.youtube.com/watch?v=BEmwnPGfcTU&list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT), Keynote, C++ Siberia 2019
 ---
 
 # Projects
