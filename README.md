@@ -271,6 +271,7 @@ List of materials and links about functional programming in C++.
 | [Lambda.cpp](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/Lambda.cpp) | Lambdas PoC implementation | Matthew Might |
 | [Knuth's arrow notation](https://gist.github.com/graninas/358f9c7b80944b7e6a3fe56c6fe09a57) | Implemented in two variants: constexpr functions and templates | Alexander Granin |
 | [Constexpr monadic parsers ("Constexpr all the things")](https://github.com/lefticus/constexpr_all_the_things) | See also the talk "Constexpr all the things". | Ben Deane, Jason Turner |
+| [cpp_parsec_free](https://github.com/graninas/cpp_parsec_free) | Monadic parsers (based on Free monads) | | Alexander Granin |
 
 
 ---
