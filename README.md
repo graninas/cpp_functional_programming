@@ -232,6 +232,8 @@ List of materials and links about functional programming in C++.
   * [Функциональная "Игра Жизнь": параллельные клеточные автоматы и комонады в С++ (Functional 'Game of Life': Parallel Cellular Automata and Comonads in C++)](https://www.youtube.com/watch?v=iKrnGSkWPnw), C++ Russia, 2016
   * [Функциональный подход к Software Transactional Memory в С++ (Pure Functional Approach to Software Transactional Memory in C++)](https://www.youtube.com/watch?v=VHZPcz8HwZs), C++ Russia, 2018
   * [Настоящее и будущее функционального программирования на C++ (The Present and The Future of Functional Programming in C++)](https://www.youtube.com/watch?v=BEmwnPGfcTU&list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT), Keynote, C++ Siberia 2019
+  * [Монадические парсеры (Monadic Parsers)](https://www.youtube.com/watch?v=q39PHTJDaLE), C++ Russia 2019 Moscow
+
 ---
 
 # Projects
