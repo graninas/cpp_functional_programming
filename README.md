@@ -184,7 +184,8 @@ List of materials and links about functional programming in C++.
 
 ## Cources
 
-- [Functional Programming using C++](https://www.youtube.com/watch?v=jD8Tu1tqvZo), **Tobias Hermann**, 2017
+- [Functional Programming using C++ (1/27) - Introducing functional programming](https://www.youtube.com/watch?v=jD8Tu1tqvZo), **Tobias Hermann**, 2017
+- [Functional Programming using C++ (2/27) - Correctness follows from expressiveness](https://www.youtube.com/watch?v=27tFyKc6g3U), **Tobias Hermann**, 2017
 
 ## QA
 
