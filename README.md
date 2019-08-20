@@ -227,6 +227,7 @@ List of materials and links about functional programming in C++.
 #### Talks (Rus)
 
 - [Эволюция метапрограммирования: как правильно работать со списками типов](https://www.youtube.com/watch?v=IF51Gsu3Cec&list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT&index=8), **Олег Фатхиев**, C++ Siberia 2019
+- [Элементы функционального программирования в современном С++](https://www.youtube.com/watch?v=AVpCdZ_RrpA), **Павел Кретов**, DataArt Online
 
 - **Alexander Granin** talks
   * [Функциональный и декларативный дизайн на С++ (Functional and Declarative Design in C++)](https://youtu.be/tc8w8MbJQNs?t=9370), C++ User Group Novosibirsk, 2014
@@ -330,6 +331,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Никита Черный aka nikitablack**
 - **stepic777**
 - **Олег Фатхиев**
+- **Павел Кретов**
 - **Владимир aka tangro**
 - **Дмитpий Hecтepук**
 - **Матвей Черевко aka BlackMATov**
