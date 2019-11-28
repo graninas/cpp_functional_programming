@@ -72,6 +72,7 @@ List of materials and links about functional programming in C++.
 - [Functional Programming in C++](https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus), **MehreenTahir**, 2018
 - [Introduction to Functional programming in C++](http://www2.lawrence.edu/fast/GREGGJ/CMSC270/functional.html), ?, ?
 - [Lambda-style anonymous functions for C++ in less than 500 lines of code](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/), **Matthew Might**, ?
+- [8 essential patterns you should know about functional programming in C++14](https://nalaginrut.com/archives/2019/10/31/8%20essential%20patterns%20you%20should%20know%20about%20functional%20programming%20in%20c%2b%2b14), **Nala Ginrut**, 2019
 
 #### Monads
 
@@ -313,6 +314,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Kiryll Shynharow**
 - **Matthew Might**
 - **Michał Dominiak**
+- **Nala Ginrut**
 - **Nicola Gigante**
 - **Nicola Bonelli**
 - **Paul Fultz**
