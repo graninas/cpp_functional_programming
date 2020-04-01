@@ -243,7 +243,6 @@ List of materials and links about functional programming in C++.
 # Projects
 
 ### Libraries
-
 | Library                                                     | Description                                                                      | Author                    |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
 | [Boost.Hana](https://boostorg.github.io/hana)               | Boost.Hana is a library with concepts borrowed from category theory              | ?                         |
@@ -259,10 +258,12 @@ List of materials and links about functional programming in C++.
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | Functional Programming Library for C++. Write concise and readable C++ code.     | Tobias Hermann            |
 | [Immutable++](https://github.com/rsms/immutable-cpp)        | Persistent immutable data structures providing practically O(1) for appends, updates and lookups based on work by Rich Hickey and by consequence Phil Bagwell. | Rasmus Andersson |
 | [Okasaki](https://github.com/BartoszMilewski/Okasaki)       | Functional data structures in C++                                                | Bartosz Milewski          |
+| [Cefal](https://github.com/dkormalev/cefal)                 | (Concepts-enabled) Functional Abstraction Layer for C++                          | Dennis Kormalev           |
 
 
  
 ### Showcase Projects
+
 
 | Project                                                                   | Description                                                                                                                                          | Author                    |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -273,12 +274,11 @@ List of materials and links about functional programming in C++.
 | [coroutine_monad](https://github.com/toby-allsopp/coroutine_monad)        | Using coroutines for monadic composition                                                                                                             | Toby Allsopp              |
 | [Monadic parsing in C++](https://gist.github.com/splinterofchaos/4112114) | Monadic parsers                                                                                                                                      | Scott Prager              |
 | [monad_do](https://github.com/evgeny-panasyuk/monad_do)                   | Emulation of DO syntax sugar for monads in C++                                                                                                       | Evgeny Panasyuk           |
-| [kari.hpp](https://github.com/BlackMATov/kari.hpp)                          | Experimental library for currying in C++14                                                                                                                        | Matvey Cherevko           |
-| [Lambda.cpp](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/Lambda.cpp) | Lambdas PoC implementation | Matthew Might |
-| [Knuth's arrow notation](https://gist.github.com/graninas/358f9c7b80944b7e6a3fe56c6fe09a57) | Implemented in two variants: constexpr functions and templates | Alexander Granin |
-| [Constexpr monadic parsers ("Constexpr all the things")](https://github.com/lefticus/constexpr_all_the_things) | See also the talk "Constexpr all the things". | Ben Deane, Jason Turner |
-| [cpp_parsec_free](https://github.com/graninas/cpp_parsec_free) | Monadic parsers (based on Free monads) | Alexander Granin |
-
+| [kari.hpp](https://github.com/BlackMATov/kari.hpp)                        | Experimental library for currying in C++14                                                                                                           | Matvey Cherevko           |
+| [Lambda.cpp](http://matt.might.net/articles/lambda-style-anonymous-functions-from-c++-templates/Lambda.cpp) | Lambdas PoC implementation                                                                                         | Matthew Might             |
+| [Knuth's arrow notation](https://gist.github.com/graninas/358f9c7b80944b7e6a3fe56c6fe09a57) | Implemented in two variants: constexpr functions and templates                                                                     | Alexander Granin          |
+| [Constexpr monadic parsers ("Constexpr all the things")](https://github.com/lefticus/constexpr_all_the_things) | See also the talk "Constexpr all the things".                                                                   | Ben Deane, Jason Turner   |
+| [cpp_parsec_free](https://github.com/graninas/cpp_parsec_free)            | Monadic parsers (based on Free monads)                                                                                                               | Alexander Granin          |
 
 ---
 
@@ -300,6 +300,7 @@ _Please, pm me if you don't want to be in this list. Or if you want to be there.
 - **Bryce Adelstein-Lelbach**
 - **Chris Weed**
 - **David Sankel**
+- **Dennis Kormalev**
 - **Eric Niebler**
 - **Evgeny Panasyuk**
 - **Isabella Muerte**
