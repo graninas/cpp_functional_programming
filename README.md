@@ -258,8 +258,8 @@ List of materials and links about functional programming in C++.
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | Functional Programming Library for C++. Write concise and readable C++ code.     | Tobias Hermann            |
 | [Immutable++](https://github.com/rsms/immutable-cpp)        | Persistent immutable data structures providing practically O(1) for appends, updates and lookups based on work by Rich Hickey and by consequence Phil Bagwell. | Rasmus Andersson |
 | [Okasaki](https://github.com/BartoszMilewski/Okasaki)       | Functional data structures in C++                                                | Bartosz Milewski          |
+| [Asyncro](https://github.com/dkormalev/asynqro)             | Monadic Futures                          | Dennis Kormalev           |
 | [Cefal](https://github.com/dkormalev/cefal)                 | (Concepts-enabled) Functional Abstraction Layer for C++                          | Dennis Kormalev           |
-
 
  
 ### Showcase Projects
