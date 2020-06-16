@@ -156,6 +156,7 @@ List of materials and links about functional programming in C++.
   * [Postmodern immutable data structures](https://www.youtube.com/watch?v=sPhpelUfu8Q), CppCon, 2017
   * [Postmodern immutable data structures](https://www.youtube.com/watch?v=ZsryQp0UAC8), C++Now, 2017
   * [Most valuable values](https://www.youtube.com/watch?v=_oBx_NbLghY), CppCon, 2018
+  * [Squaring the circle: value oriented design in an object oriented system](https://www.youtube.com/watch?v=e2-FRFEx8CA), C++ Russia Piter, 2019
 
 - **Phil Nash** talks
   * [Functional C++ for Fun and Profit](https://www.youtube.com/watch?v=YgcUuYCCV14), **Phil Nash**, St. Petersburg C++ User Group, 2016
