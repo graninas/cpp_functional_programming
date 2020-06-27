@@ -86,7 +86,7 @@ List of materials and links about functional programming in C++.
 - [The Vector Monad in C++, Really Without the Ugly Stuff](https://medium.com/@barryrevzin/the-vector-monad-in-c-really-without-the-ugly-stuff-3112137db5d7), **Barry Revzin**, 2017
 - [Multiple error handling with the optional monad in C++](https://www.fluentcpp.com/2017/07/04/multiple-error-handling-with-the-optional-monad-in-c/), **Jonathan Boccara**, 2017
 - [Free Monads in C++](https://toby-allsopp.github.io/2016/10/12/free-monads-in-cpp.html), **Toby Allsopp**, 2016
-- [An Introduction to Monads for C++ Programmers](https://www.shellblade.net/monad.html), **ShellBlade**
+- [An Introduction to Monads for C++ Programmers](https://shellblade.net/programming/Functional%20Programming/monad.html), **ShellBlade**
 
 #### Design Concepts and Approaches
 
